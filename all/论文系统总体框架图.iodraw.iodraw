@@ -19,12 +19,6 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-73" value="卸货机构舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-70">
           <mxGeometry x="519" y="46" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-74" value="硬件输入部分" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="220" y="430" width="950" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-78" value="12V电池及降压模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-74">
-          <mxGeometry x="725" y="46" width="198" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-79" value="二、传送带智能分拣系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1313" y="176" width="858" height="615" as="geometry" />
         </mxCell>
@@ -119,9 +113,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-102" value="引脚电平与捕获" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-74" target="tMqU5BFdHXp4sMY1MSKx-92">
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-102" value="引脚电平与捕获" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="tMqU5BFdHXp4sMY1MSKx-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="695" y="553" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-103" value="定时器PWM控制" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-92" target="tMqU5BFdHXp4sMY1MSKx-70">
