@@ -17,7 +17,7 @@
           <mxGeometry x="2228" y="450" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-90" value="ESP32" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="599.5" width="70" height="151.5" as="geometry" />
+          <mxGeometry x="1080" y="599.5" width="70" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-91" value="ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="890" y="721" width="110" height="30" as="geometry" />
