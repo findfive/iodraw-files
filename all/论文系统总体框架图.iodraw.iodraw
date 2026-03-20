@@ -80,8 +80,8 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-84" value="多路红外检测传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1400" y="350" width="204" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-81" value="多路分拣推料舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="599.5" width="188" height="48" as="geometry" />
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-81" value="分拣推料舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="599.5" width="110" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-82" value="OLED状态显示屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1650" y="599.5" width="177" height="48" as="geometry" />
