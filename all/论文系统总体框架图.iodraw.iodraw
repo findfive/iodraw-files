@@ -62,7 +62,7 @@
           <mxGeometry x="1884" y="680" width="245" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-92" value="STM3232F401RCT6" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="550" width="249" height="48" as="geometry" />
+          <mxGeometry x="410" y="561" width="249" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="通信模块：ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="999" y="892" width="199" height="66" as="geometry" />
@@ -82,14 +82,6 @@
             <Array as="points">
               <mxPoint x="1860" y="570" />
               <mxPoint x="1860" y="606" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-97" value="USART串口通信" style="curved=1;startArrow=block;endArrow=block;exitX=0.78;exitY=1.01;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-92" target="tMqU5BFdHXp4sMY1MSKx-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="916" y="791" />
-              <mxPoint x="916" y="827" />
             </Array>
           </mxGeometry>
         </mxCell>
