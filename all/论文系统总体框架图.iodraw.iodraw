@@ -16,11 +16,11 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-89" value="通信模块：MQTT物联网平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2228" y="450" width="245" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90">
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tMqU5BFdHXp4sMY1MSKx-82">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="666" as="sourcePoint" />
             <mxPoint x="1130" y="666" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1120" y="666" />
               <mxPoint x="1120" y="666" />
             </Array>
           </mxGeometry>
