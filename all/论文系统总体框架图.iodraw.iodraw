@@ -28,9 +28,6 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-90" value="ESP32" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="790" width="70" height="151.5" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-91" value="ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="515" y="911.5" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="755.5" y="721" width="114.5" height="30" as="geometry" />
         </mxCell>
@@ -95,9 +92,9 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-82" value="OLED显示屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="751" y="841.75" width="79" height="28.75" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-146" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.024;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-91" target="tMqU5BFdHXp4sMY1MSKx-90">
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-146" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.024;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tMqU5BFdHXp4sMY1MSKx-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="926.4200000000001" as="sourcePoint" />
+            <mxPoint x="617.4000000000001" y="926.5899999999999" as="sourcePoint" />
             <mxPoint x="659" y="926.4200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -112,6 +109,9 @@
             <mxPoint x="620" y="804.9" as="sourcePoint" />
             <mxPoint x="640" y="804.9" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-159" value="ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="910" y="890" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
