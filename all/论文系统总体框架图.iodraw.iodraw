@@ -20,7 +20,7 @@
           <mxGeometry x="1080" y="599.5" width="70" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-91" value="ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="721" width="110" height="30" as="geometry" />
+          <mxGeometry x="930" y="721" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="755.5" y="721" width="114.5" height="30" as="geometry" />
@@ -85,6 +85,12 @@
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-82" value="OLED状态显示屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1650" y="599.5" width="177" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-140" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.899;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="746" as="sourcePoint" />
+            <mxPoint x="765" y="745" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
