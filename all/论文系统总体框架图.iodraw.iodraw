@@ -22,9 +22,6 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-91" value="ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="930" y="721" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-93" target="tMqU5BFdHXp4sMY1MSKx-91">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="755.5" y="721" width="114.5" height="30" as="geometry" />
         </mxCell>
