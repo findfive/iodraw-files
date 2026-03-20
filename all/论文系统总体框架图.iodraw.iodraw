@@ -131,7 +131,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-172" value="微信小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="930" y="660.25" width="100" height="30" as="geometry" />
+          <mxGeometry x="930" y="601" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.717;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-172" target="tMqU5BFdHXp4sMY1MSKx-89">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
