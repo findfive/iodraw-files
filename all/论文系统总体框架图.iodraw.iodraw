@@ -98,12 +98,6 @@
             <mxPoint x="1049" y="735.9200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.006;exitY=0.104;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="tMqU5BFdHXp4sMY1MSKx-81">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1116" y="614.28" as="sourcePoint" />
-            <mxPoint x="1150" y="614.28" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
