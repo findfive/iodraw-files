@@ -8,13 +8,7 @@
           <mxGeometry x="150" y="397" width="1143" height="615" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-70" value="硬件输出部分" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="247" y="863" width="702" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-71" value="双路电机驱动模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-70">
-          <mxGeometry x="43" y="46" width="188" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-72" value="左右直流减速电机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-70">
-          <mxGeometry x="281" y="46" width="188" height="48" as="geometry" />
+          <mxGeometry x="260" y="880" width="702" height="123" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-73" value="卸货机构舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-70">
           <mxGeometry x="519" y="46" width="156" height="48" as="geometry" />
@@ -105,13 +99,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-103" value="定时器PWM控制" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-92" target="tMqU5BFdHXp4sMY1MSKx-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="598" y="791" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-75" value="灰度循迹传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="430" width="172" height="48" as="geometry" />
         </mxCell>
@@ -120,6 +107,9 @@
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-77" value="左右轮电机编码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="430" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-71" value="双路电机驱动模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="780" width="188" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
