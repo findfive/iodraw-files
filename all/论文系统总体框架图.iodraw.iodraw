@@ -116,14 +116,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-99" value="下发局域网调度指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.63;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-91" target="tMqU5BFdHXp4sMY1MSKx-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2006" y="791" />
-              <mxPoint x="1174" y="827" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-100" value="状态信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-83" target="tMqU5BFdHXp4sMY1MSKx-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
