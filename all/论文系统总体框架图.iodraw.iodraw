@@ -103,7 +103,7 @@
           <mxGeometry x="750" y="669.25" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-73" value="卸货舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="755.5" y="608.5" width="60" height="21.5" as="geometry" />
+          <mxGeometry x="755.5" y="608.5" width="94.5" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-111" value="STM32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="608.5" width="70" height="151.5" as="geometry" />
@@ -112,12 +112,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720.42" y="745.379" as="sourcePoint" />
             <mxPoint x="760" y="744.62" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-119" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.01;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.011;exitY=0.072;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-111" target="tMqU5BFdHXp4sMY1MSKx-73">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="620" as="sourcePoint" />
-            <mxPoint x="770" y="619" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.099;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-75" target="tMqU5BFdHXp4sMY1MSKx-111">
