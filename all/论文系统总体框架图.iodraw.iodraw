@@ -102,14 +102,8 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-71" value="电机驱动模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="755.5" y="669.25" width="94.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.001;exitY=0.101;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-111" target="tMqU5BFdHXp4sMY1MSKx-73">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="623.48" as="targetPoint" />
-            <mxPoint x="720" y="623.4544444444444" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-73" value="卸货舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="755.5" y="610.5" width="94.5" height="31.5" as="geometry" />
+          <mxGeometry x="755.5" y="608.5" width="94.5" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-111" value="STM32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="608.5" width="70" height="151.5" as="geometry" />
