@@ -83,25 +83,22 @@
             <mxPoint x="755.5" y="615.2099999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-84" target="tMqU5BFdHXp4sMY1MSKx-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-84" value="三路红外传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512" y="850.75" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-81" value="分拣推料舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="751" y="790" width="79" height="30.5" as="geometry" />
+          <mxGeometry x="755.5" y="850.75" width="79" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-82" value="OLED显示屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="751" y="841.75" width="79" height="28.75" as="geometry" />
+          <mxGeometry x="755.5" y="902.5" width="79" height="28.75" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-151" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.007;exitY=0.104;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.009;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90" target="tMqU5BFdHXp4sMY1MSKx-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="805.68" as="sourcePoint" />
             <mxPoint x="760" y="805.68" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-155" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-84" target="tMqU5BFdHXp4sMY1MSKx-90">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="804.9" as="sourcePoint" />
-            <mxPoint x="640" y="804.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-159" value="ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
