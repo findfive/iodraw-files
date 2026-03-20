@@ -97,7 +97,7 @@
           <mxGeometry x="512" y="669.25" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-77" value="电机编码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="430" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="508.75" y="728" width="101.25" height="32" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-71" value="双路电机驱动模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="226" y="700" width="188" height="48" as="geometry" />
