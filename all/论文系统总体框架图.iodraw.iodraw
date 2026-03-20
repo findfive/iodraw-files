@@ -17,10 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-83" value="硬件输入部分" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="201" width="480" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-84" value="多路红外检测传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-83">
-          <mxGeometry x="43" y="46" width="204" height="48" as="geometry" />
+          <mxGeometry x="1370" y="201" width="480" height="123" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-85" value="供电降压模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-83">
           <mxGeometry x="297" y="46" width="156" height="48" as="geometry" />
@@ -52,11 +49,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-95" value="分拣指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-88" target="tMqU5BFdHXp4sMY1MSKx-89">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-100" value="状态信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-83" target="tMqU5BFdHXp4sMY1MSKx-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -102,6 +94,9 @@
             <mxPoint x="719.5" y="624.2099999999999" as="sourcePoint" />
             <mxPoint x="755.5" y="624.2099999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-84" value="多路红外检测传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="350" width="204" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
