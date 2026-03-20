@@ -11,7 +11,7 @@
           <mxGeometry x="1030" y="528" width="207" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-89" value="通信模块：MQTT物联网平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="724" width="245" height="66" as="geometry" />
+          <mxGeometry x="1247" y="642.25" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.903;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90" target="tMqU5BFdHXp4sMY1MSKx-82">
           <mxGeometry relative="1" as="geometry">
@@ -27,16 +27,6 @@
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="755.5" y="721" width="114.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-94" value="图像流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-87" target="tMqU5BFdHXp4sMY1MSKx-88">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-95" value="分拣指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-88" target="tMqU5BFdHXp4sMY1MSKx-89">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-75" value="灰度循迹传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="599.5" width="100" height="30" as="geometry" />
