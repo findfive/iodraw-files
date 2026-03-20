@@ -46,9 +46,6 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-91" value="通信模块：ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1884" y="680" width="245" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-92" value="STM3232F401RCT6" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="522" width="249" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="770" y="730" width="120" height="30" as="geometry" />
         </mxCell>
@@ -102,8 +99,8 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-71" value="双路电机驱动模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="226" y="600" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-73" value="卸货机构舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="208" y="660" width="156" height="48" as="geometry" />
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-73" value="卸货舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="712" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-111" value="STM32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="608.5" width="70" height="151.5" as="geometry" />
