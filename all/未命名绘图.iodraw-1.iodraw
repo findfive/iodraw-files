@@ -1,0 +1,181 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="3205" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="0N29-qbrntgVqmiHERPK-82" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="492" y="640" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-83" value="等待接收参数" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="730" width="144" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-84" value="解析参数&#xa;速度/模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="361" y="905" width="132" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-85" value="模式判断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="366" y="1000" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-86" value="设置外圈循迹参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1121" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-87" value="设置内圈循迹参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="258" y="1120" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-88" value="设置超车循迹参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="476" y="1120" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-89" value="开始独立循迹" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1210" width="144" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-91" value="循迹传感器检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="1384" width="172" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-92" value="路径识别处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273" y="1483" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-93" value="电机控制调整" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273" y="1581" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-94" value="是否收到停止信号?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="322" y="1654" width="183" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-95" value="立即停止电机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="337" y="1880" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-96" value="系统结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="353" y="1970" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-97" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="544" y="938" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-98" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="582" y="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-99" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="343" y="1370" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-100" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="503" y="1409" as="geometry" />
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-82" target="0N29-qbrntgVqmiHERPK-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-105" value="收到参数" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-83" target="0N29-qbrntgVqmiHERPK-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="869" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-84" target="0N29-qbrntgVqmiHERPK-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-107" value="外圈模式" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-85" target="0N29-qbrntgVqmiHERPK-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-108" value="内圈模式" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-85" target="0N29-qbrntgVqmiHERPK-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="1084" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-109" value="超车模式" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-85" target="0N29-qbrntgVqmiHERPK-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-86" target="0N29-qbrntgVqmiHERPK-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="1194" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-87" target="0N29-qbrntgVqmiHERPK-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352" y="1194" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-88" target="0N29-qbrntgVqmiHERPK-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1194" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-91" target="0N29-qbrntgVqmiHERPK-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-119" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-92" target="0N29-qbrntgVqmiHERPK-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-120" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.06;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-93" target="0N29-qbrntgVqmiHERPK-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="1655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-121" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.2;entryX=1;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-94" target="0N29-qbrntgVqmiHERPK-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="1700" />
+              <mxPoint x="540" y="1520" />
+            </Array>
+            <mxPoint x="529.52" y="1483.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-122" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-94" target="0N29-qbrntgVqmiHERPK-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-95" target="0N29-qbrntgVqmiHERPK-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-124" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-83" target="0N29-qbrntgVqmiHERPK-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="882" as="sourcePoint" />
+            <mxPoint x="670" y="832" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="910" />
+              <mxPoint x="635" y="940" />
+              <mxPoint x="650" y="832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-125" value="未接收到参数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0N29-qbrntgVqmiHERPK-124">
+          <mxGeometry x="-0.3185" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0N29-qbrntgVqmiHERPK-126" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0N29-qbrntgVqmiHERPK-89" target="0N29-qbrntgVqmiHERPK-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1430" as="sourcePoint" />
+            <mxPoint x="350" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
