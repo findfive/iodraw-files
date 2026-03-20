@@ -90,6 +90,9 @@
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-75" value="灰度循迹传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="608.5" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-76" target="tMqU5BFdHXp4sMY1MSKx-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-76" value="光电传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512" y="669.25" width="98" height="30" as="geometry" />
         </mxCell>
