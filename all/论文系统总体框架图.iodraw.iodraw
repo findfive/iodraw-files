@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-80" value="硬件输出部分" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1348" y="642" width="485" height="123" as="geometry" />
+          <mxGeometry x="1348" y="700" width="485" height="123" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-81" value="多路分拣推料舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-80">
           <mxGeometry x="43" y="46" width="188" height="48" as="geometry" />
@@ -15,12 +15,6 @@
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tMqU5BFdHXp4sMY1MSKx-80" source="tMqU5BFdHXp4sMY1MSKx-80" target="tMqU5BFdHXp4sMY1MSKx-81">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-83" value="硬件输入部分" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="201" width="480" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-85" value="供电降压模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tMqU5BFdHXp4sMY1MSKx-83">
-          <mxGeometry x="297" y="46" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-86" value="一、上位机边缘视觉系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2192" y="30" width="317" height="540" as="geometry" />
