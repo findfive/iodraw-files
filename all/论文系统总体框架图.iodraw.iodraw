@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-84" value="三路红外传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="790" width="105" height="30" as="geometry" />
+          <mxGeometry x="510" y="790.25" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-81" value="分拣推料舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="751" y="790" width="79" height="30.5" as="geometry" />
