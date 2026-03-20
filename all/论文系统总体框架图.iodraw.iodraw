@@ -86,11 +86,6 @@
             <mxPoint x="755.5" y="615.2099999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-84">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="514.8620689655173" y="804.9655172413793" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-84" value="三路红外传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="790" width="105" height="30" as="geometry" />
         </mxCell>
