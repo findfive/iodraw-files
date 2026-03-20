@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ydj2hr8IdxEseTFe3PJN">
-    <mxGraphModel dx="1037" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,15 +18,15 @@
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.903;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90" target="tMqU5BFdHXp4sMY1MSKx-82">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="896.5" as="sourcePoint" />
-            <mxPoint x="740" y="896.5" as="targetPoint" />
+            <mxPoint x="730" y="856.5" as="sourcePoint" />
+            <mxPoint x="740" y="856.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="723" y="967" />
+              <mxPoint x="723" y="927" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-90" value="ESP32" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="830" width="70" height="151.5" as="geometry" />
+          <mxGeometry x="650" y="790" width="70" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="755.5" y="721" width="114.5" height="30" as="geometry" />
@@ -77,27 +77,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-84" value="三路红外传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="512" y="890.75" width="98" height="30" as="geometry" />
+          <mxGeometry x="512" y="850.75" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-81" value="分拣推料舵机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="755.5" y="890.75" width="79" height="30.5" as="geometry" />
+          <mxGeometry x="755.5" y="850.75" width="79" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-82" value="OLED显示屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="755.5" y="952.75" width="79" height="28.75" as="geometry" />
+          <mxGeometry x="755.5" y="912.75" width="79" height="28.75" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-151" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.001;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.009;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90" target="tMqU5BFdHXp4sMY1MSKx-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="845.68" as="sourcePoint" />
-            <mxPoint x="760" y="845.68" as="targetPoint" />
+            <mxPoint x="730" y="805.68" as="sourcePoint" />
+            <mxPoint x="760" y="805.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-159" value="ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="755.5" y="830" width="114.5" height="30" as="geometry" />
+          <mxGeometry x="755.5" y="790" width="114.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-162" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.03;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90" target="tMqU5BFdHXp4sMY1MSKx-159">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="844.94" as="sourcePoint" />
-            <mxPoint x="755.5" y="844.94" as="targetPoint" />
+            <mxPoint x="730" y="804.94" as="sourcePoint" />
+            <mxPoint x="755.5" y="804.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-164" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.501;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.504;exitY=-0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tMqU5BFdHXp4sMY1MSKx-159" target="tMqU5BFdHXp4sMY1MSKx-93">
