@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-90" value="ESP32" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tMqU5BFdHXp4sMY1MSKx-90" value="分拣主控&#xa;ESP32" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="650" y="790" width="70" height="151.5" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
