@@ -35,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-76" value="光电传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="511" y="640" width="100" height="30" as="geometry" />
+          <mxGeometry x="510" y="640" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-77" value="电机编码器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="510" y="724" width="98" height="32" as="geometry" />
+          <mxGeometry x="510" y="689" width="98" height="32" as="geometry" />
         </mxCell>
         <mxCell id="tMqU5BFdHXp4sMY1MSKx-71" value="电机驱动模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="755.5" y="660.25" width="94.5" height="30" as="geometry" />
