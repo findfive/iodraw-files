@@ -336,7 +336,7 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-458" value="状态机是否处于&#xa;运动状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3205.13" y="6477" width="136.13" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-459" value="灰度传感器是否检测到黑色十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-459" value="灰度传感器是否检测到&#xa;黑色十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2992.49" y="6750" width="217.51" height="98" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-460" value="状态机是否处于等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
