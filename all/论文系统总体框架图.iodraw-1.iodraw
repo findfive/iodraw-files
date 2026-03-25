@@ -10,9 +10,6 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-39" value="二、ESP32分拣主程序 (FreeRTOS 任务调度)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1677" y="1989" width="1061" height="1839" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-40" value="一、PC端边缘视觉主程序 (Python while True)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2757" y="370" width="768" height="1893" as="geometry" />
-        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-41" value="PC端程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3178" y="395" width="122" height="34" as="geometry" />
         </mxCell>
