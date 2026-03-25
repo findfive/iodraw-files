@@ -305,7 +305,7 @@
           <mxGeometry x="3187.25" y="6287" width="172.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-457" value="解析目标并判断是否缓存为下一次任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3372.99" y="6410" width="252" height="66" as="geometry" />
+          <mxGeometry x="3184.49" y="6460" width="235.51" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-458" value="状态机是否处于运动状态(取货/卸货/返航)?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3124.49" y="6550" width="264" height="264" as="geometry" />
@@ -342,13 +342,6 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-468" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-454" target="KaNf-R4lzkF0VlSjohUQ-455">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-470" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-456" target="KaNf-R4lzkF0VlSjohUQ-457">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3565" y="6650" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-471" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-456" target="KaNf-R4lzkF0VlSjohUQ-458">
