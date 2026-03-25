@@ -461,13 +461,8 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-345" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="3222.5" y="7680" width="35" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-349">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3240" y="7893" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-349" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="3312" y="7843" width="50" height="100" as="geometry" />
+          <mxGeometry x="3284.5" y="7800" width="50" height="153" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
