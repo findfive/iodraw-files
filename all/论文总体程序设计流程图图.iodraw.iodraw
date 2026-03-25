@@ -391,6 +391,14 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3168" y="7550" width="144" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-335" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-279" target="KaNf-R4lzkF0VlSjohUQ-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-336" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-335">
+          <mxGeometry x="0.0123" y="3" relative="1" as="geometry">
+            <mxPoint x="7" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-279" value="红外无遮挡且传感器&#xa;处于锁定态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3412.5" y="7560" width="136" height="108" as="geometry" />
         </mxCell>
@@ -404,7 +412,7 @@
           <mxGeometry x="2898" y="8706" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-283" value="解除状态锁锁定&#xa;(重置为就绪)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3360" y="7726.47" width="130" height="33.53" as="geometry" />
+          <mxGeometry x="3413.5" y="7693.24" width="130" height="33.53" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-284" value="RTOS任务延时释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3444" y="8823" width="252" height="66" as="geometry" />
