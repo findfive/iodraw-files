@@ -16,6 +16,14 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-33" value="进入系统监控主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="667" y="260" width="153.99" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-34" target="cknG1NyJcouFHnxYW82i-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-82" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-81">
+          <mxGeometry x="-0.1152" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-34" value="摄像头是否捕获有效画面?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="659.24" y="330" width="169.5" height="111" as="geometry" />
         </mxCell>
@@ -31,7 +39,7 @@
           <mxGeometry x="586" y="770" width="241" height="241" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="938" y="400" width="213" height="213" as="geometry" />
+          <mxGeometry x="938" y="410" width="213" height="213" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1048" y="580" width="215" height="215" as="geometry" />
