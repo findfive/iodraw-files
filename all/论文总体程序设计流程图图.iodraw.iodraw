@@ -429,7 +429,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-284" value="RTOS任务延时&#xa;释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3328.49" y="5612" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="3328.49" y="5600" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-285" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-272" target="KaNf-R4lzkF0VlSjohUQ-273">
           <mxGeometry relative="1" as="geometry">
@@ -470,7 +470,7 @@
           <mxGeometry x="3242.99" y="5431.25" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-349" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="3363" y="5450" width="50" height="248.5" as="geometry" />
+          <mxGeometry x="3364.75" y="5456.75" width="39.49" height="248.5" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-351" value="ESP32程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3284" y="8410" width="129" height="34" as="geometry" />
