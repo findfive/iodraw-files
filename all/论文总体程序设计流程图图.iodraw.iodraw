@@ -306,7 +306,7 @@
           <mxGeometry x="3404.5" y="5889.25" width="129" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-273" value="系统硬件与RTOS队列初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3391.5" y="5950.25" width="159" height="43" as="geometry" />
+          <mxGeometry x="3401.5" y="5983" width="159" height="43" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-302" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-274" target="KaNf-R4lzkF0VlSjohUQ-275">
           <mxGeometry relative="1" as="geometry" />
