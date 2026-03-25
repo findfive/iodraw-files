@@ -147,9 +147,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-232" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-231">
-          <mxGeometry x="-0.852" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-233" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-231">
+          <mxGeometry x="-0.8282" y="1" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-195" value="是否收到云端&#xa;MQTT指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -162,7 +162,7 @@
           <mxGeometry x="2859.99" y="6240" width="150.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-197" value="红外传感器是否&#xa;检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2860.99" y="6320" width="148.01" height="80" as="geometry" />
+          <mxGeometry x="2860.99" y="6298" width="148.01" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-198" value="当前传感器的状态锁是否就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2805.99" y="6911" width="258" height="258" as="geometry" />
