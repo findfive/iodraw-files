@@ -47,9 +47,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到&#xa;包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="511.24" y="370" width="172.5" height="150" as="geometry" />
+          <mxGeometry x="542.24" y="380" width="118.76" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到&#xa;关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="843" y="410" width="153" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
