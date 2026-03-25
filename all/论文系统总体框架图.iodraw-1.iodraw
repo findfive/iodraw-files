@@ -193,7 +193,7 @@
           <mxGeometry x="2861.49" y="6552" width="147.01" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-202" value="控制推料舵机动作并向小车下发指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2743.99" y="7712" width="252" height="66" as="geometry" />
+          <mxGeometry x="2820" y="6730" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-203" value="将包裹目标压入下一站点的缓存队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3045.99" y="7712" width="252" height="66" as="geometry" />
@@ -227,13 +227,6 @@
             <Array as="points">
               <mxPoint x="2703.99" y="7205" />
               <mxPoint x="2703.99" y="7803" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-217" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-201" target="KaNf-R4lzkF0VlSjohUQ-202">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2869.99" y="7675" />
             </Array>
           </mxGeometry>
         </mxCell>
