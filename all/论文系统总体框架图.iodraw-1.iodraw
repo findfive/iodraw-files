@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-46" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3147.5" y="890" width="183" height="183" as="geometry" />
+          <mxGeometry x="3188.25" y="750" width="102.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-47" target="KaNf-R4lzkF0VlSjohUQ-45">
           <mxGeometry relative="1" as="geometry" />
