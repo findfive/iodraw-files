@@ -20,7 +20,7 @@
           <mxGeometry x="161.24" y="290" width="169.5" height="111" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="47" y="687" width="241" height="241" as="geometry" />
+          <mxGeometry x="39" y="1402" width="241" height="241" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="213" height="213" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="306" y="700" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="272" y="1304" width="239" height="49" as="geometry" />
+          <mxGeometry x="311.37" y="1280" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-39" value="小车是否处于空闲且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="1953" width="258" height="258" as="geometry" />
@@ -69,7 +69,10 @@
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-50" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-34" target="cknG1NyJcouFHnxYW82i-35">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="56" y="694" />
+              <mxPoint x="56" y="1377" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-51" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-34" target="cknG1NyJcouFHnxYW82i-36">
@@ -81,7 +84,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="146" y="980" />
-              <mxPoint x="230" y="1510" />
+              <mxPoint x="146" y="1377" />
             </Array>
           </mxGeometry>
         </mxCell>
