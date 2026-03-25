@@ -39,6 +39,9 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="800" width="239" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-39" value="小车是否处于空闲且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2" y="1160" width="258" height="258" as="geometry" />
         </mxCell>
@@ -57,7 +60,7 @@
           <mxGeometry x="30" y="2401" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-43" value="STM32切换状态机执行循迹搬运" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="2180" width="249" height="66" as="geometry" />
+          <mxGeometry x="260" y="2284" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-44" value="系统是否发生断线或异常?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="201" y="2499" width="231" height="231" as="geometry" />
@@ -125,13 +128,6 @@
             <Array as="points">
               <mxPoint x="81" y="2248" />
               <mxPoint x="81" y="2376" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-62" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="384" y="2248" />
             </Array>
           </mxGeometry>
         </mxCell>
