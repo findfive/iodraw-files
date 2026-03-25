@@ -155,9 +155,13 @@
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-195">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-195" target="KaNf-R4lzkF0VlSjohUQ-197">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3050" y="6320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3040" y="6144" />
+              <mxPoint x="3040" y="6339" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-195" value="是否收到云端&#xa;MQTT指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
