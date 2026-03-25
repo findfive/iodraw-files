@@ -364,6 +364,7 @@
             <Array as="points">
               <mxPoint x="3480" y="7494" />
               <mxPoint x="3480" y="7552" />
+              <mxPoint x="3481" y="7552" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -391,7 +392,7 @@
           <mxGeometry x="3168" y="7550" width="144" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-279" value="红外无遮挡且传感器&#xa;处于锁定态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3412.5" y="7567" width="136" height="108" as="geometry" />
+          <mxGeometry x="3412.5" y="7560" width="136" height="108" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-280" value="触发推料舵机动作&#xa;并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3120" y="7690" width="110" height="40" as="geometry" />
