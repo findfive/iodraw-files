@@ -53,12 +53,13 @@
             <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-155" target="KaNf-R4lzkF0VlSjohUQ-156">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-155">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2990" y="5480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2870" y="5227" />
-              <mxPoint x="2870" y="5515" />
-              <mxPoint x="2931" y="5515" />
+              <mxPoint x="2870" y="5228" />
+              <mxPoint x="2870" y="5480" />
+              <mxPoint x="2931" y="5480" />
             </Array>
           </mxGeometry>
         </mxCell>
