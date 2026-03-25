@@ -301,8 +301,8 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-455" value="进入底层 FSM 轮询主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3195" y="6220" width="157" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-456" value="串口是否收到ESP32派单指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3147.5" y="6300" width="172.5" height="110" as="geometry" />
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-456" value="串口是否收到&#xa;ESP32派单指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3187.25" y="6300" width="172.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-457" value="解析目标并判断是否缓存为下一次任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3439" y="6686" width="252" height="66" as="geometry" />
