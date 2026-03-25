@@ -421,8 +421,8 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-151" value="初始化相机与PaddleOCR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2861" y="4900" width="164" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-152" value="读取一帧图像 (cap.read)" style="whiteSpace=wrap;strokeWidth=2;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="2825" y="4970" width="236" height="49" as="geometry" />
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-152" value="读取一帧图像 (cap.read)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2865.5" y="4970" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-153" value="读取是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2789" y="5121" width="151" height="151" as="geometry" />
