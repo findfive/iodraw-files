@@ -94,7 +94,7 @@
           <mxGeometry x="836.5" y="570" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="787" y="750" width="239" height="49" as="geometry" />
+          <mxGeometry x="787" y="760" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-43">
           <mxGeometry relative="1" as="geometry" />
@@ -154,11 +154,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-32" target="cknG1NyJcouFHnxYW82i-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=1;entryY=0.19;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-38" target="cknG1NyJcouFHnxYW82i-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
