@@ -44,6 +44,11 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-35" target="cknG1NyJcouFHnxYW82i-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-124" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-72">
+          <mxGeometry x="-0.2204" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到&#xa;包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="546.22" y="682.25" width="123.06" height="120" as="geometry" />
         </mxCell>
@@ -107,8 +112,8 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-39" value="小车是否处于空闲且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="478.75" y="1090" width="141.25" height="138" as="geometry" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-39" value="小车是否处于空闲&#xa;且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="537.13" y="850" width="141.25" height="138" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-40" value="ESP32控制对应舵机推料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="827" y="802.25" width="158.5" height="29" as="geometry" />
