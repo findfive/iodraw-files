@@ -64,7 +64,7 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到&#xa;关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="843" y="380" width="127" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="820" y="520" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
