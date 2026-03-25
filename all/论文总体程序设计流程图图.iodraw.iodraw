@@ -462,7 +462,7 @@
           <mxGeometry x="3222.5" y="7680" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-349" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="3343" y="7741.5" width="50" height="270" as="geometry" />
+          <mxGeometry x="3332.25" y="7752.25" width="50" height="248.5" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-351" value="ESP32程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3284" y="8410" width="129" height="34" as="geometry" />
@@ -620,6 +620,9 @@
               <mxPoint x="3751" y="8666" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-381" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-283" target="KaNf-R4lzkF0VlSjohUQ-349">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
