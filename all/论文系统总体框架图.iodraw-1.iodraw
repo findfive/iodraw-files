@@ -47,7 +47,7 @@
           <mxGeometry x="460" y="410" width="172.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="938" y="410" width="213" height="213" as="geometry" />
+          <mxGeometry x="843" y="410" width="153" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1048" y="580" width="215" height="215" as="geometry" />
