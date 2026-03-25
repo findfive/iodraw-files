@@ -26,7 +26,7 @@
           <mxGeometry x="240" y="440" width="213" height="213" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="306" y="700" width="215" height="215" as="geometry" />
+          <mxGeometry x="580" y="640" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="272" y="1304" width="239" height="49" as="geometry" />
