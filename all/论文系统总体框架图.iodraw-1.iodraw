@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到&#xa;包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="548.37" y="724.5" width="118.76" height="120" as="geometry" />
+          <mxGeometry x="548.37" y="740" width="118.76" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-36" target="cknG1NyJcouFHnxYW82i-37">
           <mxGeometry relative="1" as="geometry" />
