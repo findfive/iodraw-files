@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="-2060" dy="-4488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1601" dy="-4283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,6 +330,9 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-276" value="解析目标站点&#xa;并压入起始队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3297.5" y="7370" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-277" target="KaNf-R4lzkF0VlSjohUQ-278">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-277" value="红外传感器触发&#xa;且状态锁就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3297.5" y="7450" width="105" height="100" as="geometry" />
