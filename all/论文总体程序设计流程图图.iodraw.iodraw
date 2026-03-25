@@ -385,8 +385,8 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-462" value="路口计数累加是否&#xa;达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3117.7099999999996" y="6694" width="124.53" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-463" value="停车执行卸货动作并切换全局状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3056" y="6840" width="252" height="66" as="geometry" />
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-463" value="停车执行卸货动作并&#xa;切换全局状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3056" y="6840" width="174" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-464" value="底层任务时钟延时与看门狗喂狗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3225" y="7917" width="252" height="66" as="geometry" />
