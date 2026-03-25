@@ -374,9 +374,12 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-277" value="红外传感器触发&#xa;且状态锁就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3297.5" y="7444" width="105" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.369;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278" target="KaNf-R4lzkF0VlSjohUQ-280">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3170" y="7680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3171" y="7600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
