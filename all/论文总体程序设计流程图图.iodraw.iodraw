@@ -342,7 +342,7 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-494" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-493">
           <mxGeometry x="-0.6979" y="2" relative="1" as="geometry">
-            <mxPoint x="-1" y="-12" as="offset" />
+            <mxPoint x="-11" y="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-458" value="状态机是否处于&#xa;运动状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -471,7 +471,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-495" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-458" target="KaNf-R4lzkF0VlSjohUQ-460">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3365" y="6510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-496" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-495">
+          <mxGeometry x="0.0275" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
