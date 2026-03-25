@@ -104,7 +104,12 @@
           <mxGeometry x="830" y="730" width="153" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.768;exitY=0.757;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="954" />
+              <mxPoint x="620" y="1570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-42">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +118,7 @@
           <mxGeometry x="390" y="850" width="141.25" height="138" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-40" value="ESP32控制对应舵机推料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="827.25" y="821" width="158.5" height="29" as="geometry" />
+          <mxGeometry x="645.87" y="910" width="158.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-41" target="cknG1NyJcouFHnxYW82i-39">
           <mxGeometry relative="1" as="geometry">
@@ -121,7 +126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-41" value="通过局域网下发小车调度派单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="822.25" y="906" width="168.5" height="26" as="geometry" />
+          <mxGeometry x="640.87" y="995" width="168.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-42" target="cknG1NyJcouFHnxYW82i-44">
           <mxGeometry relative="1" as="geometry" />
