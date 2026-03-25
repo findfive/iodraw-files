@@ -90,7 +90,7 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="848.25" y="570" width="116.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-38">
+        <mxCell id="cknG1NyJcouFHnxYW82i-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-38" target="cknG1NyJcouFHnxYW82i-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="790" as="targetPoint" />
           </mxGeometry>
