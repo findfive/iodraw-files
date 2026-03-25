@@ -394,6 +394,11 @@
             <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-561" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-460">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3460" y="6870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-460" value="状态机是否处于&#xa;等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3297.99" y="6571" width="129.51" height="93" as="geometry" />
         </mxCell>
@@ -447,8 +452,8 @@
             <mxPoint x="3430" y="6240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3246" y="6960" />
-              <mxPoint x="3440" y="6960" />
-              <mxPoint x="3440" y="6240" />
+              <mxPoint x="3570" y="6960" />
+              <mxPoint x="3570" y="6240" />
             </Array>
           </mxGeometry>
         </mxCell>
