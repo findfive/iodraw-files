@@ -209,6 +209,11 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-203">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2940" y="6770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3095" y="6760" />
+              <mxPoint x="2941" y="6760" />
+              <mxPoint x="2941" y="6770" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-203" value="将包裹目标压入下一&#xa;站点的缓存队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
