@@ -337,7 +337,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-275" value="是否收到云端&#xa;MQTT指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3412.5" y="6089.25" width="115" height="90" as="geometry" />
+          <mxGeometry x="3423" y="6130" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-276" target="KaNf-R4lzkF0VlSjohUQ-277">
           <mxGeometry relative="1" as="geometry" />
