@@ -435,14 +435,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4056.24" y="4975" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3872" y="5695" />
+              <mxPoint x="3860" y="5695" />
               <mxPoint x="4196" y="5695" />
               <mxPoint x="4196" y="4982" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-464" value="底层任务时钟延时&#xa;与看门狗喂狗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3798.7400000000007" y="5610" width="140.51" height="40" as="geometry" />
+          <mxGeometry x="3786.750000000001" y="5610" width="140.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-553" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-465" target="KaNf-R4lzkF0VlSjohUQ-466">
           <mxGeometry relative="1" as="geometry" />
