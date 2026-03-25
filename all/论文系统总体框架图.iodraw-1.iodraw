@@ -29,7 +29,7 @@
           <mxGeometry x="306" y="700" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="311.37" y="1280" width="239" height="49" as="geometry" />
+          <mxGeometry x="570" y="920" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-39" value="小车是否处于空闲且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="1953" width="258" height="258" as="geometry" />
@@ -103,16 +103,12 @@
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-55" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-37" target="cknG1NyJcouFHnxYW82i-38">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="392" y="1267" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=1;entryY=0.19;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-38" target="cknG1NyJcouFHnxYW82i-35">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="392" y="1377" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-57" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-35" target="cknG1NyJcouFHnxYW82i-39">
