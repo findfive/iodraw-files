@@ -311,11 +311,10 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-569" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-456">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3900" y="5190" as="targetPoint" />
+            <mxPoint x="3900" y="5180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3811" y="5061" />
               <mxPoint x="3811" y="5180" />
-              <mxPoint x="3900" y="5180" />
             </Array>
           </mxGeometry>
         </mxCell>
