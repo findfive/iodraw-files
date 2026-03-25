@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="860" y="570" width="116.5" height="110" as="geometry" />
+          <mxGeometry x="848.25" y="570" width="116.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="787" y="760" width="239" height="49" as="geometry" />
@@ -162,6 +162,14 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-66" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-44" target="cknG1NyJcouFHnxYW82i-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.961;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-37" target="cknG1NyJcouFHnxYW82i-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-100" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-99">
+          <mxGeometry x="-0.1649" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
