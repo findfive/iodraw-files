@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="IO4Pn5ogKN1ugYvFN0Jo">
-    <mxGraphModel dx="3630" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,6 +59,9 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-41" value="通过局域网下发小车调度派单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258.5" y="1130" width="252" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-42" target="cknG1NyJcouFHnxYW82i-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-42" value="更新OLED显示屏与云端数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3" y="1670" width="257" height="49" as="geometry" />
         </mxCell>
@@ -69,7 +72,7 @@
           <mxGeometry x="220" y="1530" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-44" value="系统是否发生断线或异常?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="201" y="2499" width="231" height="231" as="geometry" />
+          <mxGeometry x="170" y="1830" width="231" height="231" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-45" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="289" y="2803" width="55" height="34" as="geometry" />
