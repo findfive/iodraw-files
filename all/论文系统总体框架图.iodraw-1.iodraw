@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="-1972" dy="-4448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-666" dy="-3865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,9 +174,7 @@
             <mxPoint x="2760" y="6810" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2760" y="6339" />
-              <mxPoint x="2760" y="6584" />
-              <mxPoint x="2858" y="6584" />
-              <mxPoint x="2858" y="6845" />
+              <mxPoint x="2760" y="6845" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -239,14 +237,6 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-207" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-193" target="KaNf-R4lzkF0VlSjohUQ-194">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-215" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-198" target="KaNf-R4lzkF0VlSjohUQ-199">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2703.99" y="7205" />
-              <mxPoint x="2703.99" y="7803" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-221" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-199" target="KaNf-R4lzkF0VlSjohUQ-204">
