@@ -374,19 +374,6 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-277" value="红外传感器触发&#xa;且状态锁就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3297.5" y="7444" width="105" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-328" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278" target="KaNf-R4lzkF0VlSjohUQ-280">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3100" y="7605" />
-              <mxPoint x="3100" y="7710" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-329" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-328">
-          <mxGeometry x="-0.6409" y="-3" relative="1" as="geometry">
-            <mxPoint y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278" target="KaNf-R4lzkF0VlSjohUQ-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -394,9 +381,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-331" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-330">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-331" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-330">
           <mxGeometry x="-0.1088" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -480,6 +467,9 @@
               <mxPoint x="3751" y="7276" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-332" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278" target="KaNf-R4lzkF0VlSjohUQ-280">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
