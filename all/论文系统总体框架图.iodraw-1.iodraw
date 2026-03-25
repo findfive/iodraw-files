@@ -27,11 +27,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3540" y="588.2222290039062" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-46" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3228" y="900" width="183" height="183" as="geometry" />
         </mxCell>
