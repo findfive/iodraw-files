@@ -317,7 +317,7 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-275" value="是否收到云端&#xa;MQTT指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3292.5" y="7240" width="115" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-276" value="解析目标站点并压入起始队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-276" value="解析目标站点&#xa;并压入起始队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3220" y="7400" width="110" height="46" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-277" value="红外传感器触发且状态锁就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
