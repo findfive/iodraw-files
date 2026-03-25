@@ -290,16 +290,16 @@
           <mxGeometry x="3364.75" y="5456.75" width="39.49" height="248.5" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-453" value="STM32小车程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3817.24" y="4840" width="165" height="34" as="geometry" />
+          <mxGeometry x="3817.24" y="4857" width="165" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-454" value="初始化外设与PID控制参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3825.74" y="4895" width="148" height="33" as="geometry" />
+          <mxGeometry x="3825.74" y="4910" width="148" height="33" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-487" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-455" target="KaNf-R4lzkF0VlSjohUQ-456">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-455" value="进入底层 FSM 轮询主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3821.24" y="4955" width="157" height="40" as="geometry" />
+          <mxGeometry x="3821.24" y="4962" width="157" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-488" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-456" target="KaNf-R4lzkF0VlSjohUQ-457">
           <mxGeometry relative="1" as="geometry" />
