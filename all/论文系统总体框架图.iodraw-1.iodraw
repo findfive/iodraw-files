@@ -250,7 +250,7 @@
           <mxGeometry x="2884.74" y="6940" width="100.51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-205" value="任务延时以释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2904.99" y="8275" width="249" height="49" as="geometry" />
+          <mxGeometry x="2830" y="7050" width="249" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-206" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-192" target="KaNf-R4lzkF0VlSjohUQ-193">
           <mxGeometry relative="1" as="geometry">
