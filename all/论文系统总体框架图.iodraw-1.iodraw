@@ -49,6 +49,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-35" target="cknG1NyJcouFHnxYW82i-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到&#xa;包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="546.22" y="682.25" width="123.06" height="120" as="geometry" />
         </mxCell>
@@ -106,7 +109,8 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.768;exitY=0.757;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="954" />
+              <mxPoint x="499" y="1060" />
+              <mxPoint x="620" y="1060" />
               <mxPoint x="620" y="1570" />
             </Array>
           </mxGeometry>
