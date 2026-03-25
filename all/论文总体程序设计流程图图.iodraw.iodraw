@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="-1790" dy="-4367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1513" dy="-4243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,16 +303,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-272" value="ESP32程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3404.5" y="5889.25" width="129" height="34" as="geometry" />
+          <mxGeometry x="3284.5" y="7040" width="129" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-273" value="系统硬件与RTOS队列初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3389.5" y="5949.25" width="159" height="43" as="geometry" />
+          <mxGeometry x="3269.5" y="7100" width="159" height="43" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-302" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-274" target="KaNf-R4lzkF0VlSjohUQ-275">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-274" value="进入传感器监控主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3404.5" y="6019.25" width="131" height="39" as="geometry" />
+          <mxGeometry x="3284.5" y="7170" width="131" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-303" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-275" target="KaNf-R4lzkF0VlSjohUQ-276">
           <mxGeometry relative="1" as="geometry" />
@@ -324,11 +324,11 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-275">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3470" y="6269.25" as="targetPoint" />
+            <mxPoint x="3350" y="7420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3560" y="6134.25" />
-              <mxPoint x="3560" y="6269.25" />
-              <mxPoint x="3523" y="6269.25" />
+              <mxPoint x="3440" y="7285" />
+              <mxPoint x="3440" y="7420" />
+              <mxPoint x="3403" y="7420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -338,18 +338,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-275" value="是否收到云端&#xa;MQTT指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3412.5" y="6089.25" width="115" height="90" as="geometry" />
+          <mxGeometry x="3292.5" y="7240" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-276" target="KaNf-R4lzkF0VlSjohUQ-277">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-276" value="解析目标站点&#xa;并压入起始队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3417.5" y="6214.25" width="105" height="40" as="geometry" />
+          <mxGeometry x="3297.5" y="7365" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=-0.017;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-277" target="KaNf-R4lzkF0VlSjohUQ-278">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3360" y="6343.25" />
+              <mxPoint x="3240" y="7494" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -359,12 +359,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-277" value="红外传感器触发&#xa;且状态锁就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3417.5" y="6293.25" width="105" height="100" as="geometry" />
+          <mxGeometry x="3297.5" y="7444" width="105" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278" target="KaNf-R4lzkF0VlSjohUQ-281">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3445" y="6454.25" />
+              <mxPoint x="3325" y="7605" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -374,7 +374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3288" y="6399.25" width="144" height="110" as="geometry" />
+          <mxGeometry x="3168" y="7550" width="144" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-335" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-279" target="KaNf-R4lzkF0VlSjohUQ-283">
           <mxGeometry relative="1" as="geometry" />
@@ -386,10 +386,10 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-382" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-279" target="KaNf-R4lzkF0VlSjohUQ-349">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3680" y="6729.25" as="targetPoint" />
+            <mxPoint x="3560" y="7880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3687" y="6453.25" />
-              <mxPoint x="3687" y="6723.25" />
+              <mxPoint x="3567" y="7604" />
+              <mxPoint x="3567" y="7874" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -399,32 +399,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-279" value="红外无遮挡且传感器&#xa;处于锁定态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3530.5" y="6399.25" width="136" height="108" as="geometry" />
+          <mxGeometry x="3410.5" y="7550" width="136" height="108" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-280" value="触发推料舵机动作&#xa;并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3240" y="6539.25" width="110" height="40" as="geometry" />
+          <mxGeometry x="3120" y="7690" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-281" value="将包裹目标转入&#xa;下一站点队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3370" y="6539.25" width="100" height="40" as="geometry" />
+          <mxGeometry x="3250" y="7690" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-282" value="锁定该站传感器&#xa;(防止重复触发)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3290.25" y="6652.25" width="139.51" height="40" as="geometry" />
+          <mxGeometry x="3170.25" y="7803" width="139.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-283" value="解除状态锁锁定&#xa;(重置为就绪)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3533.5" y="6658.719999999999" width="130" height="33.53" as="geometry" />
+          <mxGeometry x="3413.5" y="7809.469999999999" width="130" height="33.53" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-284" target="KaNf-R4lzkF0VlSjohUQ-274">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3780" y="6049.25" as="targetPoint" />
+            <mxPoint x="3660" y="7200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3477" y="6819.25" />
-              <mxPoint x="3730" y="6819.25" />
-              <mxPoint x="3730" y="6039.25" />
+              <mxPoint x="3357" y="7970" />
+              <mxPoint x="3610" y="7970" />
+              <mxPoint x="3610" y="7190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-284" value="RTOS任务延时&#xa;释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3423" y="6759.25" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="3303" y="7910" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-285" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-272" target="KaNf-R4lzkF0VlSjohUQ-273">
           <mxGeometry relative="1" as="geometry">
@@ -439,8 +439,8 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-332" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278" target="KaNf-R4lzkF0VlSjohUQ-280">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3254" y="6454.25" />
-              <mxPoint x="3254" y="6519.25" />
+              <mxPoint x="3134" y="7605" />
+              <mxPoint x="3134" y="7670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -461,10 +461,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-345" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="3342.5" y="6529.25" width="35" height="140" as="geometry" />
+          <mxGeometry x="3222.5" y="7680" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-349" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="3452.25" y="6601.5" width="50" height="248.5" as="geometry" />
+          <mxGeometry x="3332.25" y="7752.25" width="50" height="248.5" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-351" value="ESP32程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3284" y="8410" width="129" height="34" as="geometry" />
