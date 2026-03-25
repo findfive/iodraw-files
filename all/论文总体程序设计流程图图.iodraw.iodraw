@@ -336,9 +336,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3806.24" y="5305" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3806.24" y="5245" />
-              <mxPoint x="3806.24" y="5285" />
-              <mxPoint x="3806.24" y="5285" />
+              <mxPoint x="3806" y="5230" />
+              <mxPoint x="3806" y="5285" />
+              <mxPoint x="3807" y="5285" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -383,7 +383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-459" value="灰度传感器是否&#xa;检测到黑色十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3737.71" y="5303" width="137.02" height="100" as="geometry" />
+          <mxGeometry x="3737.71" y="5269" width="137.02" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-551" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-460" target="KaNf-R4lzkF0VlSjohUQ-465">
           <mxGeometry relative="1" as="geometry" />
