@@ -207,7 +207,12 @@
           <mxGeometry x="2874.49" y="6700" width="121.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-203" target="KaNf-R4lzkF0VlSjohUQ-199">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3096" y="6760" />
+              <mxPoint x="2935" y="6760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-203" value="将包裹目标压入下一&#xa;站点的缓存队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3031" y="6700" width="129" height="40" as="geometry" />
