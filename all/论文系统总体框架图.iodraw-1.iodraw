@@ -190,7 +190,7 @@
           <mxGeometry x="2654.99" y="7828" width="258" height="258" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-200" value="锁定当前传感器 &#xa;(防止重复触发)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2875.23" y="6580" width="120.52" height="40" as="geometry" />
+          <mxGeometry x="2874.73" y="6550" width="120.52" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-201" value="队列提取的分拣目标是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2891.99" y="7381" width="258" height="258" as="geometry" />
