@@ -404,6 +404,16 @@
             <mxPoint x="9" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-548" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-462">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3090" y="6739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-550" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-548">
+          <mxGeometry x="-0.0946" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-462" value="路口计数累加是否&#xa;达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3117.7099999999996" y="6694" width="124.53" height="90" as="geometry" />
         </mxCell>
