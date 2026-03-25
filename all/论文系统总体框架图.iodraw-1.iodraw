@@ -1,143 +1,128 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="Ydj2hr8IdxEseTFe3PJN">
-    <mxGraphModel dx="830" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="IO4Pn5ogKN1ugYvFN0Jo">
+    <mxGraphModel dx="1452" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-87" value="USB摄像头" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="950" y="851.25" width="100" height="30" as="geometry" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-1" value="三、STM32小车搬运主程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1583" width="526" height="676" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-88" value="PC计算机" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="699.13" width="100" height="211.75" as="geometry" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-2" value="二、ESP32传送带分拣主程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="132" y="866" width="328" height="645" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-89" value="巴法云MQTT物联网平台" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="910" y="790" width="140" height="30" as="geometry" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-3" value="一、PC端视觉识别主程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="142" y="20" width="308" height="774" as="geometry" />
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.903;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90" target="tMqU5BFdHXp4sMY1MSKx-82" edge="1">
+        <mxCell id="cknG1NyJcouFHnxYW82i-4" value="采集摄像头动态图像流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="186" y="45" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-5" value="PaddleOCR关键字特征提取" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="177" y="144" width="238" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-6" value="系统级冷却防抖判定" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="199" y="455" width="193" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-7" value="MQTT发布目标站点指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="181" y="720" width="230" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-8" value="MQTT接收指令并写入软件队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="173" y="891" width="246" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-9" value="红外传感器边沿与状态锁检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="167" y="1007" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-10" value="触发对应站点推料舵机动作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1338" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-11" value="局域网下发小车调度指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="178" y="1437" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-12" value="接收调度指令并更新状态机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1608" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-13" value="前往取货点 (PID闭环循迹)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="59" y="1707" width="244" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-14" value="光电检测装车彻底完毕" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="77" y="1806" width="209" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-15" value="前往卸货点并控制舵机抛料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="2087" width="252" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-16" value="返航与任务缓存队列判定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="178" y="2186" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-4" target="cknG1NyJcouFHnxYW82i-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="856.5" as="sourcePoint" />
-            <mxPoint x="740" y="856.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-18" value="识别成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-5" target="cknG1NyJcouFHnxYW82i-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-19" value="通过防抖验证" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-6" target="cknG1NyJcouFHnxYW82i-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-8" target="cknG1NyJcouFHnxYW82i-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-21" value="检测到对应包裹到位" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-9" target="cknG1NyJcouFHnxYW82i-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-10" target="cknG1NyJcouFHnxYW82i-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-12" target="cknG1NyJcouFHnxYW82i-13">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="723" y="927" />
+              <mxPoint x="181" y="1682" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-90" value="分拣主控&#xa;ESP32" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="790" width="70" height="151.5" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-93" value="ESP8266 WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="755.5" y="721" width="114.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-75" value="红外循迹传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="510" y="599.5" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-76" target="tMqU5BFdHXp4sMY1MSKx-111" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-76" value="光电传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="510" y="640" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-77" value="电机编码器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="510" y="680" width="100" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-71" value="电机驱动模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="755.5" y="660.25" width="94.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-73" value="卸货舵机" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="755.5" y="599.5" width="94.5" height="31.5" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-111" value="小车主控&lt;div&gt;STM32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="599.5" width="70" height="151.5" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-113" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.899;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-111" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720.42" y="736.379" as="sourcePoint" />
-            <mxPoint x="755" y="736" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.099;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-75" target="tMqU5BFdHXp4sMY1MSKx-111" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.027;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-77" target="tMqU5BFdHXp4sMY1MSKx-111" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-111" target="tMqU5BFdHXp4sMY1MSKx-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.006;exitY=0.104;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-111" target="tMqU5BFdHXp4sMY1MSKx-73" edge="1">
+        <mxCell id="cknG1NyJcouFHnxYW82i-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-13" target="cknG1NyJcouFHnxYW82i-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="719.5" y="615.2099999999999" as="sourcePoint" />
-            <mxPoint x="755.5" y="615.2099999999999" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-84" target="tMqU5BFdHXp4sMY1MSKx-90" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-84" value="三路红外传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="512" y="890" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-81" value="分拣推料舵机" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="755.5" y="850.75" width="79" height="30.5" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-82" value="OLED显示屏" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="755.5" y="912.75" width="79" height="28.75" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-151" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.001;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.009;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90" target="tMqU5BFdHXp4sMY1MSKx-81" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="805.68" as="sourcePoint" />
-            <mxPoint x="760" y="805.68" as="targetPoint" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-25" value="装货成功触发" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-14" target="cknG1NyJcouFHnxYW82i-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-159" value="ESP32板载WiFi" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="755.5" y="790" width="114.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-162" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.03;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-90" target="tMqU5BFdHXp4sMY1MSKx-159" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="804.94" as="sourcePoint" />
-            <mxPoint x="755.5" y="804.94" as="targetPoint" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.26;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-15" target="cknG1NyJcouFHnxYW82i-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="181" y="2161" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-164" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.501;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.504;exitY=-0.048;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-159" target="tMqU5BFdHXp4sMY1MSKx-93" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="812.6800000000001" y="786" as="sourcePoint" />
-            <mxPoint x="812.6800000000001" y="756" as="targetPoint" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-27" value="无缝接单或切入空闲待机" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=-0.01;entryX=0.72;entryY=1;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-16" target="cknG1NyJcouFHnxYW82i-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="2161" />
+              <mxPoint x="410" y="1682" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-166" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.015;exitY=0.504;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.025;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-89" target="tMqU5BFdHXp4sMY1MSKx-88" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="805.2" as="sourcePoint" />
-            <mxPoint x="1080" y="804.81" as="targetPoint" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-28" value="基于MQTT协议发送至云端" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-7" target="cknG1NyJcouFHnxYW82i-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-172" value="微信小程序" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="960" y="699.13" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.717;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-172" target="tMqU5BFdHXp4sMY1MSKx-89" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-174" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.01;exitY=0.504;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-159" target="tMqU5BFdHXp4sMY1MSKx-89" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="878" y="804.96" as="sourcePoint" />
-            <mxPoint x="900" y="804.96" as="targetPoint" />
+        <mxCell id="cknG1NyJcouFHnxYW82i-29" value="基于UART透传下发" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-11" target="cknG1NyJcouFHnxYW82i-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tMqU5BFdHXp4sMY1MSKx-175" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.017;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.024;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tMqU5BFdHXp4sMY1MSKx-87" target="tMqU5BFdHXp4sMY1MSKx-88" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1060" y="866.18" as="sourcePoint" />
-            <mxPoint x="1080" y="866.18" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d-pHPrhQX-tLRa_nDhAY-1" value="电源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="721" width="100" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="d-pHPrhQX-tLRa_nDhAY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d-pHPrhQX-tLRa_nDhAY-1" target="tMqU5BFdHXp4sMY1MSKx-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="d-pHPrhQX-tLRa_nDhAY-3" value="电源管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="810" width="102" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="d-pHPrhQX-tLRa_nDhAY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d-pHPrhQX-tLRa_nDhAY-3" target="tMqU5BFdHXp4sMY1MSKx-90">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
