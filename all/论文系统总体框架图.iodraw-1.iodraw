@@ -20,7 +20,7 @@
           <mxGeometry x="161.24" y="290" width="169.5" height="111" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="38" y="960" width="241" height="241" as="geometry" />
+          <mxGeometry x="65.5" y="849" width="241" height="241" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="440" y="360" width="213" height="213" as="geometry" />
