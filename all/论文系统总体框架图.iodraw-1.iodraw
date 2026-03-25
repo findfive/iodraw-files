@@ -27,14 +27,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-34" target="cknG1NyJcouFHnxYW82i-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-103" value="N&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-83">
-          <mxGeometry x="-0.759" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-34" value="摄像头是否捕获&#xa;有效画面?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="683.74" y="300" width="120.76" height="110" as="geometry" />
         </mxCell>
@@ -42,20 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到&#xa;包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="540" y="820" width="118.76" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-36" target="cknG1NyJcouFHnxYW82i-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="440" />
-              <mxPoint x="600" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-97" value="N&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-87">
-          <mxGeometry x="-0.726" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="548.37" y="724.5" width="118.76" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-36" target="cknG1NyJcouFHnxYW82i-37">
           <mxGeometry relative="1" as="geometry" />
