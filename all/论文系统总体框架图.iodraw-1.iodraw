@@ -82,6 +82,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-37" target="cknG1NyJcouFHnxYW82i-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-37" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="836.5" y="570" width="140" height="110" as="geometry" />
         </mxCell>
