@@ -203,7 +203,7 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-202" value="控制推料舵机动作&#xa;并向小车下发指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2874.49" y="6700" width="121.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-203" value="将包裹目标压入下一站点的缓存队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-203" value="将包裹目标压入下一&#xa;站点的缓存队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3025.99" y="6680" width="134.01" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-204" value="解除状态锁锁定 (重置就绪状态)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
