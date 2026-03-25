@@ -19,7 +19,7 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-45" value="结束程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2792" y="974" width="87" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-46" value="到达抽帧时间间隔?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-46" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3228" y="900" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-47" value="更新本地UI画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
