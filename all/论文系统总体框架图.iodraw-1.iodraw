@@ -16,18 +16,8 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-43" value="读取一帧图像(cap.read)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3161.5" y="550" width="156" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.017;exitY=0.517;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-44" target="KaNf-R4lzkF0VlSjohUQ-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3410" y="580" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3289" y="650" />
-              <mxPoint x="3410" y="650" />
-              <mxPoint x="3410" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-44" value="读取是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3191.5" y="620" width="96" height="71" as="geometry" />
+          <mxGeometry x="3191.5" y="620" width="96" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-45" value="结束程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3196" y="1180" width="87" height="34" as="geometry" />
