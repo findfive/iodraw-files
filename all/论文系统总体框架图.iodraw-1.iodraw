@@ -215,6 +215,11 @@
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-199">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3020" y="6990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-199" value="传感器是否确认&#xa;包裹已完全离开?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2877.99" y="6790" width="114" height="110" as="geometry" />
         </mxCell>
