@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-192" value="ESP32程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2870.99" y="5880" width="129" height="34" as="geometry" />
+          <mxGeometry x="2870.99" y="5902" width="129" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-193" value="系统硬件与FreeRTOS队列初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2823.9799999999996" y="5964" width="223.01" height="40" as="geometry" />
@@ -219,7 +219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-201" value="队列提取的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2861.49" y="6552" width="147.01" height="110" as="geometry" />
+          <mxGeometry x="2861.49" y="6539" width="147.01" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-202" target="KaNf-R4lzkF0VlSjohUQ-199">
           <mxGeometry relative="1" as="geometry" />
