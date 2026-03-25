@@ -358,6 +358,16 @@
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-277" target="KaNf-R4lzkF0VlSjohUQ-279">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3440" y="7550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3422" y="7494" />
+              <mxPoint x="3422" y="7532" />
+              <mxPoint x="3440" y="7532" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-277" value="红外传感器触发&#xa;且状态锁就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3297.5" y="7444" width="105" height="100" as="geometry" />
         </mxCell>
