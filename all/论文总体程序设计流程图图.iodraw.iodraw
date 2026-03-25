@@ -346,10 +346,15 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-502" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-458" target="KaNf-R4lzkF0VlSjohUQ-460">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3361" y="6510" />
-              <mxPoint x="3361" y="6560" />
+              <mxPoint x="3363" y="6510" />
+              <mxPoint x="3363" y="6560" />
               <mxPoint x="3363" y="6560" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-503" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-502">
+          <mxGeometry x="-0.0672" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-458" value="状态机是否处于&#xa;运动状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
