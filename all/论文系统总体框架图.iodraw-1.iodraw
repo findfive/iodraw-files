@@ -241,6 +241,16 @@
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-201">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3080" y="6690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-267" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-266">
+          <mxGeometry x="-0.6332" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-201" value="队列提取的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2861.49" y="6542" width="147.01" height="110" as="geometry" />
         </mxCell>
