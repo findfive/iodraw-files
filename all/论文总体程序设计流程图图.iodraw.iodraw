@@ -398,8 +398,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3250" y="6870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3447" y="6618" />
-              <mxPoint x="3447" y="6870" />
+              <mxPoint x="3460" y="6618" />
+              <mxPoint x="3460" y="6870" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -479,7 +479,12 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-563" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-465">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3450" y="6732" as="targetPoint" />
+            <mxPoint x="3460" y="6732" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-564" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-563">
+          <mxGeometry x="0.0645" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-465" value="光电传感器是否&#xa;持续检测到货物?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
