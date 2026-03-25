@@ -41,16 +41,6 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-35" target="cknG1NyJcouFHnxYW82i-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.814;exitY=0.688;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-35" target="cknG1NyJcouFHnxYW82i-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="868" y="1020" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="645" y="850" />
-              <mxPoint x="660" y="850" />
-              <mxPoint x="660" y="1085" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到&#xa;包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="540" y="820" width="118.76" height="120" as="geometry" />
         </mxCell>
