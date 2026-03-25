@@ -277,7 +277,7 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-204" value="解除状态锁锁定&#xa; (重置就绪状态)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2884.74" y="6938" width="100.51" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-205">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-205" target="KaNf-R4lzkF0VlSjohUQ-194">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3010" y="6050" as="targetPoint" />
             <Array as="points">
