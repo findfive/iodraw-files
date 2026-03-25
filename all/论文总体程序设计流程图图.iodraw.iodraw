@@ -1,20 +1,20 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="-407" dy="-3749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1480" dy="-4228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-150" value="PC端程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="4943" width="122" height="34" as="geometry" />
+          <mxGeometry x="2930" y="4891" width="122" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-151" value="初始化相机与PaddleOCR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2919" y="5003" width="164" height="43" as="geometry" />
+          <mxGeometry x="2909" y="4951" width="164" height="43" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-152" target="KaNf-R4lzkF0VlSjohUQ-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-152" value="读取一帧图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2938.75" y="5073" width="124.5" height="29" as="geometry" />
+          <mxGeometry x="2928.75" y="5021" width="124.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-153" target="KaNf-R4lzkF0VlSjohUQ-155">
           <mxGeometry relative="1" as="geometry" />
@@ -26,11 +26,11 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-153" target="KaNf-R4lzkF0VlSjohUQ-154">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2940" y="5750" as="targetPoint" />
+            <mxPoint x="2930" y="5698" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2850" y="5173" />
-              <mxPoint x="2850" y="5622" />
-              <mxPoint x="2940" y="5622" />
+              <mxPoint x="2840" y="5121" />
+              <mxPoint x="2840" y="5570" />
+              <mxPoint x="2930" y="5570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,10 +40,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-153" value="读取是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2933.75" y="5133" width="134.5" height="80" as="geometry" />
+          <mxGeometry x="2923.75" y="5081" width="134.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-154" value="结束程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2957.49" y="5603" width="87" height="34" as="geometry" />
+          <mxGeometry x="2947.49" y="5551" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-155" target="KaNf-R4lzkF0VlSjohUQ-157">
           <mxGeometry relative="1" as="geometry" />
@@ -56,9 +56,9 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-155" target="KaNf-R4lzkF0VlSjohUQ-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2880" y="5279" />
-              <mxPoint x="2880" y="5567" />
-              <mxPoint x="2941" y="5567" />
+              <mxPoint x="2870" y="5227" />
+              <mxPoint x="2870" y="5515" />
+              <mxPoint x="2931" y="5515" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,19 +68,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-155" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2929.87" y="5242" width="142.25" height="75" as="geometry" />
+          <mxGeometry x="2919.87" y="5190" width="142.25" height="75" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-156" target="KaNf-R4lzkF0VlSjohUQ-152">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3140" y="5093" as="targetPoint" />
+            <mxPoint x="3130" y="5041" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3090" y="5567" />
-              <mxPoint x="3090" y="5087" />
+              <mxPoint x="3080" y="5515" />
+              <mxPoint x="3080" y="5035" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-156" value="更新本地UI视频画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2940.74" y="5547" width="120.5" height="39" as="geometry" />
+          <mxGeometry x="2930.74" y="5495" width="120.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-157" target="KaNf-R4lzkF0VlSjohUQ-158">
           <mxGeometry relative="1" as="geometry" />
@@ -92,10 +92,10 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-157">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2880" y="5393" as="targetPoint" />
+            <mxPoint x="2870" y="5341" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2907" y="5393" />
-              <mxPoint x="2880" y="5393" />
+              <mxPoint x="2897" y="5341" />
+              <mxPoint x="2870" y="5341" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,13 +105,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-157" value="是否匹配到&#xa;目标关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2932.37" y="5345" width="137.25" height="95" as="geometry" />
+          <mxGeometry x="2922.37" y="5293" width="137.25" height="95" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-158" target="KaNf-R4lzkF0VlSjohUQ-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-158" value="MQTT发布分拣指令&#xa;并重置冷却时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2941" y="5471" width="120" height="52" as="geometry" />
+          <mxGeometry x="2931" y="5419" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-150" target="KaNf-R4lzkF0VlSjohUQ-151">
           <mxGeometry relative="1" as="geometry">
