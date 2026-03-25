@@ -20,7 +20,7 @@
           <mxGeometry x="3191.5" y="620" width="96" height="71" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-45" value="结束程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3196" y="1300" width="87" height="34" as="geometry" />
+          <mxGeometry x="3196" y="1250" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-46" target="KaNf-R4lzkF0VlSjohUQ-50">
           <mxGeometry relative="1" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-47" value="更新本地UI画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3154" y="1210" width="96" height="39" as="geometry" />
+          <mxGeometry x="3191.5" y="1169" width="96" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-50" target="KaNf-R4lzkF0VlSjohUQ-51">
           <mxGeometry relative="1" as="geometry" />
