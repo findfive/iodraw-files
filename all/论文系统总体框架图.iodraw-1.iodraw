@@ -27,6 +27,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-34" target="cknG1NyJcouFHnxYW82i-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="355" />
+              <mxPoint x="500" y="785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-34" value="摄像头是否捕获&#xa;有效画面?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="683.74" y="300" width="120.76" height="110" as="geometry" />
         </mxCell>
