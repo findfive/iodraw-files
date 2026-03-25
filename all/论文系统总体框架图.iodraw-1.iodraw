@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-33" value="进入系统监控主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="667.01" y="240" width="153.99" height="30" as="geometry" />
+          <mxGeometry x="667.13" y="240" width="153.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-34" target="cknG1NyJcouFHnxYW82i-36">
           <mxGeometry relative="1" as="geometry" />
@@ -95,9 +95,7 @@
             <mxPoint x="1418" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1368" y="1966" />
-              <mxPoint x="1368" y="250" />
-              <mxPoint x="900" y="250" />
-              <mxPoint x="900" y="255" />
+              <mxPoint x="1368" y="255" />
             </Array>
           </mxGeometry>
         </mxCell>
