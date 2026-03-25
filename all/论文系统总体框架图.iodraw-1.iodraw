@@ -60,11 +60,6 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-36" target="cknG1NyJcouFHnxYW82i-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-109" value="N&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-108">
-          <mxGeometry x="-0.6379" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到&#xa;关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="843" y="380" width="127" height="120" as="geometry" />
         </mxCell>
@@ -84,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-111" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-110">
+        <mxCell id="cknG1NyJcouFHnxYW82i-111" value="N&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-110">
           <mxGeometry x="-0.5878" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
