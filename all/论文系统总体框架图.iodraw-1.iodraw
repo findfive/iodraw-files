@@ -178,6 +178,11 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-240" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-198" target="KaNf-R4lzkF0VlSjohUQ-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-241" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-240">
+          <mxGeometry x="-0.2229" y="1" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-198" value="当前传感器的状态锁&#xa;是否就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2864.36" y="6418" width="141.27" height="92" as="geometry" />
         </mxCell>
