@@ -210,9 +210,9 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-199" target="KaNf-R4lzkF0VlSjohUQ-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-258" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-257">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-258" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-257">
           <mxGeometry x="-0.154" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-199" value="传感器是否确认&#xa;包裹已完全离开?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -247,7 +247,7 @@
           <mxGeometry x="3031" y="6700" width="129" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-204" value="解除状态锁锁定 (重置就绪状态)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2849.49" y="6960" width="172" height="66" as="geometry" />
+          <mxGeometry x="2849.49" y="6948" width="100.51" height="52" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-205" value="任务延时以释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2904.99" y="8275" width="249" height="49" as="geometry" />
