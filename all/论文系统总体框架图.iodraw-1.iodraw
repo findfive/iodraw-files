@@ -479,6 +479,11 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-155" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2899.87" y="5160" width="142.25" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3120" y="5180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-156" value="更新本地UI视频画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2910.74" y="5530" width="120.5" height="39" as="geometry" />
         </mxCell>
