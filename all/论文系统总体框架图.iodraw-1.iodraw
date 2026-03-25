@@ -33,7 +33,7 @@
             <mxPoint x="678.62" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-118" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-115">
+        <mxCell id="cknG1NyJcouFHnxYW82i-118" value="N&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-115">
           <mxGeometry x="-0.5775" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -59,6 +59,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="607.2477600000001" y="730" as="targetPoint" />
             <mxPoint x="843.002164750958" y="443.2285057471265" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-119" value="N&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-116">
+          <mxGeometry x="-0.6563" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-36" value="OCR是否提取到&#xa;关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
