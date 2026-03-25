@@ -17,7 +17,7 @@
           <mxGeometry x="169" y="220" width="153.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-34" value="摄像头是否捕获有效画面?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="49" y="427" width="231" height="231" as="geometry" />
+          <mxGeometry x="140" y="300" width="231" height="231" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="39" y="1402" width="241" height="241" as="geometry" />
@@ -71,6 +71,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="164" y="402" />
+              <mxPoint x="215" y="280" />
+              <mxPoint x="230" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
