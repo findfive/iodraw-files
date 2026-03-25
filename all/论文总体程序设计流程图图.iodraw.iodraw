@@ -391,9 +391,9 @@
               <mxPoint x="3567" y="7604" />
               <mxPoint x="3567" y="7769" />
               <mxPoint x="3561" y="7769" />
-              <mxPoint x="3561" y="7880" />
-              <mxPoint x="3540" y="7880" />
-              <mxPoint x="3540" y="7874" />
+              <mxPoint x="3561" y="7870" />
+              <mxPoint x="3570" y="7870" />
+              <mxPoint x="3570" y="7874" />
             </Array>
           </mxGeometry>
         </mxCell>
