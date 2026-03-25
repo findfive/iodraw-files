@@ -14,7 +14,7 @@
           <mxGeometry x="163" y="150" width="166" height="36" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-33" value="进入系统监控主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="153.99" height="29" as="geometry" />
+          <mxGeometry x="169" y="220" width="153.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-34" value="摄像头是否捕获有效画面?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="49" y="427" width="231" height="231" as="geometry" />
