@@ -311,11 +311,16 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-491" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-456">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3160" y="6470" as="targetPoint" />
+            <mxPoint x="3270" y="6470" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3161" y="6332" />
               <mxPoint x="3161" y="6470" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-492" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-491">
+          <mxGeometry x="-0.4231" y="1" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-456" value="串口是否收到&#xa;ESP32派单指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
