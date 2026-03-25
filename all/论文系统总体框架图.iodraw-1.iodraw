@@ -37,7 +37,7 @@
           <mxGeometry x="3131.5" y="1180" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-51" value="MQTT发布目标站点指令并重置冷却时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2951" y="1500" width="246" height="66" as="geometry" />
+          <mxGeometry x="2940" y="1450" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-52" value="ESP32上电启动" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2537" y="3199" width="129" height="34" as="geometry" />
@@ -138,14 +138,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3074" y="1989" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=0;entryX=0;entryY=0.86;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-47" target="KaNf-R4lzkF0VlSjohUQ-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2915" y="1989" />
-              <mxPoint x="2915" y="651" />
             </Array>
           </mxGeometry>
         </mxCell>
