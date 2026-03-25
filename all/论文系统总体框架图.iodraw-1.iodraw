@@ -42,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-35" value="ESP32是否检测到&#xa;包裹到位?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="540" y="850" width="118.76" height="120" as="geometry" />
+          <mxGeometry x="540" y="820" width="118.76" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-36" target="cknG1NyJcouFHnxYW82i-35">
           <mxGeometry relative="1" as="geometry">
@@ -73,19 +73,6 @@
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-96" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-95">
           <mxGeometry x="-0.3256" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="880" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="625" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-105" value="N&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cknG1NyJcouFHnxYW82i-104">
-          <mxGeometry x="-0.6885" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
