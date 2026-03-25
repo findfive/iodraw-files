@@ -499,6 +499,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-164" value="N (冷却中)" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.02;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-155" target="KaNf-R4lzkF0VlSjohUQ-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2836" y="5596" />
+              <mxPoint x="2836" y="6011" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-166" value="N (未匹配)" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-157" target="KaNf-R4lzkF0VlSjohUQ-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
