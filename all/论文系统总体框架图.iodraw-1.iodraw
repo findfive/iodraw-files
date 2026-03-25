@@ -99,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="787" y="765.5" width="239" height="49" as="geometry" />
+          <mxGeometry x="830" y="777.75" width="153" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-43">
           <mxGeometry relative="1" as="geometry" />
@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-41" value="通过局域网下发小车调度派单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780.5" y="950" width="252" height="66" as="geometry" />
+          <mxGeometry x="801.75" y="950" width="209.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-42" target="cknG1NyJcouFHnxYW82i-44">
           <mxGeometry relative="1" as="geometry" />
