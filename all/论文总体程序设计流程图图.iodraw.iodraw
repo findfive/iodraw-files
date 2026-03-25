@@ -350,8 +350,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3240" y="7494" />
-              <mxPoint x="3240" y="7530" />
-              <mxPoint x="3242" y="7530" />
             </Array>
           </mxGeometry>
         </mxCell>
