@@ -411,7 +411,7 @@
           <mxGeometry x="3170.25" y="7803" width="139.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-283" value="解除状态锁锁定&#xa;(重置为就绪)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3413.5" y="7693.24" width="130" height="33.53" as="geometry" />
+          <mxGeometry x="3413.5" y="7809.469999999999" width="130" height="33.53" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-284" value="RTOS任务延时&#xa;释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3284.5" y="7920" width="107.5" height="40" as="geometry" />
