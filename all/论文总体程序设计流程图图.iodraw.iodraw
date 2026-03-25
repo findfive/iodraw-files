@@ -1,20 +1,20 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="4779" dy="-1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-407" dy="-3749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-150" value="PC端程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="4840" width="122" height="34" as="geometry" />
+          <mxGeometry x="2940" y="4943" width="122" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-151" value="初始化相机与PaddleOCR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2889" y="4900" width="164" height="43" as="geometry" />
+          <mxGeometry x="2919" y="5003" width="164" height="43" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-152" target="KaNf-R4lzkF0VlSjohUQ-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-152" value="读取一帧图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2908.75" y="4970" width="124.5" height="29" as="geometry" />
+          <mxGeometry x="2938.75" y="5073" width="124.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-153" target="KaNf-R4lzkF0VlSjohUQ-155">
           <mxGeometry relative="1" as="geometry" />
@@ -26,11 +26,11 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-153" target="KaNf-R4lzkF0VlSjohUQ-154">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2910" y="5647" as="targetPoint" />
+            <mxPoint x="2940" y="5750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2820" y="5070" />
-              <mxPoint x="2820" y="5519" />
-              <mxPoint x="2910" y="5519" />
+              <mxPoint x="2850" y="5173" />
+              <mxPoint x="2850" y="5622" />
+              <mxPoint x="2940" y="5622" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,10 +40,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-153" value="读取是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2903.75" y="5030" width="134.5" height="80" as="geometry" />
+          <mxGeometry x="2933.75" y="5133" width="134.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-154" value="结束程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2927.49" y="5500" width="87" height="34" as="geometry" />
+          <mxGeometry x="2957.49" y="5603" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-155" target="KaNf-R4lzkF0VlSjohUQ-157">
           <mxGeometry relative="1" as="geometry" />
@@ -56,9 +56,9 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-155" target="KaNf-R4lzkF0VlSjohUQ-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2850" y="5176" />
-              <mxPoint x="2850" y="5464" />
-              <mxPoint x="2911" y="5464" />
+              <mxPoint x="2880" y="5279" />
+              <mxPoint x="2880" y="5567" />
+              <mxPoint x="2941" y="5567" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,19 +68,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-155" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2899.87" y="5139" width="142.25" height="75" as="geometry" />
+          <mxGeometry x="2929.87" y="5242" width="142.25" height="75" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-156" target="KaNf-R4lzkF0VlSjohUQ-152">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3110" y="4990" as="targetPoint" />
+            <mxPoint x="3140" y="5093" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3060" y="5464" />
-              <mxPoint x="3060" y="4984" />
+              <mxPoint x="3090" y="5567" />
+              <mxPoint x="3090" y="5087" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-156" value="更新本地UI视频画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2910.74" y="5444" width="120.5" height="39" as="geometry" />
+          <mxGeometry x="2940.74" y="5547" width="120.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-157" target="KaNf-R4lzkF0VlSjohUQ-158">
           <mxGeometry relative="1" as="geometry" />
@@ -92,10 +92,10 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-157">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2850" y="5290" as="targetPoint" />
+            <mxPoint x="2880" y="5393" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2877" y="5290" />
-              <mxPoint x="2850" y="5290" />
+              <mxPoint x="2907" y="5393" />
+              <mxPoint x="2880" y="5393" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,13 +105,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-157" value="是否匹配到&#xa;目标关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2902.37" y="5242" width="137.25" height="95" as="geometry" />
+          <mxGeometry x="2932.37" y="5345" width="137.25" height="95" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-158" target="KaNf-R4lzkF0VlSjohUQ-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-158" value="MQTT发布分拣指令&#xa;并重置冷却时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2911" y="5368" width="120" height="52" as="geometry" />
+          <mxGeometry x="2941" y="5471" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-150" target="KaNf-R4lzkF0VlSjohUQ-151">
           <mxGeometry relative="1" as="geometry">
@@ -489,189 +489,6 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-468" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-454" target="KaNf-R4lzkF0VlSjohUQ-455">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-507" value="STM32小车程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3483" y="5810" width="165" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-508" value="初始化外设与PID控制参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3444" y="5894" width="243" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-509" value="进入底层 FSM 轮询主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3445" y="5992" width="241" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-510" value="串口是否收到ESP32派单指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3356" y="6091" width="252" height="252" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-511" value="解析目标并判断是否缓存为下一次任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3731" y="6416" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-512" value="状态机是否处于运动状态(取货/卸货/返航)?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="6532" width="264" height="264" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-513" value="灰度传感器是否检测到黑色十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3185" y="6869" width="258" height="258" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-514" value="状态机是否处于等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3586" y="6869" width="258" height="258" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-515" value="计算串级PID偏差并更新左右轮PWM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3032" y="7531" width="259" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-516" value="路口计数累加是否达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3321" y="7200" width="258" height="258" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-517" value="停车执行卸货动作并切换全局状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3341" y="7531" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-518" value="底层任务时钟延时与看门狗喂狗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3517" y="7647" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-519" value="光电传感器是否持续检测到货物?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3668" y="7200" width="258" height="258" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-520" value="确认装货完成, 切换状态为前往卸货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3767" y="7531" width="204" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-521" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-507" target="KaNf-R4lzkF0VlSjohUQ-508">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-522" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-508" target="KaNf-R4lzkF0VlSjohUQ-509">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-523" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-509" target="KaNf-R4lzkF0VlSjohUQ-510">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3482" y="6066" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-524" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-510" target="KaNf-R4lzkF0VlSjohUQ-511">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3857" y="6380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-525" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-510" target="KaNf-R4lzkF0VlSjohUQ-512">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3398" y="6380" />
-              <mxPoint x="3398" y="6507" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-526" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.29;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-511" target="KaNf-R4lzkF0VlSjohUQ-512">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3857" y="6507" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-527" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-512" target="KaNf-R4lzkF0VlSjohUQ-513">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3314" y="6833" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-528" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-512" target="KaNf-R4lzkF0VlSjohUQ-514">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3715" y="6833" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-529" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.48;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-513" target="KaNf-R4lzkF0VlSjohUQ-515">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3148" y="7164" />
-              <mxPoint x="3148" y="7495" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-530" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-513" target="KaNf-R4lzkF0VlSjohUQ-516">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3450" y="7164" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-531" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-516" target="KaNf-R4lzkF0VlSjohUQ-515">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3297" y="7495" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-532" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-516" target="KaNf-R4lzkF0VlSjohUQ-517">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3467" y="7495" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-533" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-515" target="KaNf-R4lzkF0VlSjohUQ-518">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3162" y="7622" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-534" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-517" target="KaNf-R4lzkF0VlSjohUQ-518">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3467" y="7622" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-535" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-514" target="KaNf-R4lzkF0VlSjohUQ-519">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3797" y="7164" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-536" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-514" target="KaNf-R4lzkF0VlSjohUQ-518">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3630" y="7164" />
-              <mxPoint x="3630" y="7622" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-537" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-519" target="KaNf-R4lzkF0VlSjohUQ-520">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3869" y="7495" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-538" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.69;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-519" target="KaNf-R4lzkF0VlSjohUQ-518">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3725" y="7495" />
-              <mxPoint x="3725" y="7622" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-539" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-520" target="KaNf-R4lzkF0VlSjohUQ-518">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3869" y="7622" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-540" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.21;entryX=1;entryY=0.77;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-518" target="KaNf-R4lzkF0VlSjohUQ-509">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4022" y="7622" />
-              <mxPoint x="4022" y="6066" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-579" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.475;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-459" target="KaNf-R4lzkF0VlSjohUQ-461">
