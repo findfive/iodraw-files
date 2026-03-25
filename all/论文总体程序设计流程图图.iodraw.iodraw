@@ -310,7 +310,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-456" value="串口是否收到&#xa;ESP32派单指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3813.5" y="5023" width="136.5" height="77" as="geometry" />
+          <mxGeometry x="3831.49" y="5022" width="136.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-490" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-457" target="KaNf-R4lzkF0VlSjohUQ-458">
           <mxGeometry relative="1" as="geometry" />
