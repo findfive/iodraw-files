@@ -453,7 +453,7 @@
           <mxGeometry x="2899.87" y="5160" width="142.25" height="75" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-156" value="更新本地UI视频画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2911" y="5530" width="120.5" height="39" as="geometry" />
+          <mxGeometry x="2910.74" y="5530" width="120.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-157" target="KaNf-R4lzkF0VlSjohUQ-158">
           <mxGeometry relative="1" as="geometry" />
@@ -465,9 +465,6 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-157" value="是否匹配到&#xa;目标关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2902.37" y="5280" width="137.25" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-158" target="KaNf-R4lzkF0VlSjohUQ-156">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-158" value="MQTT发布分拣指令&#xa;并重置冷却时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2911" y="5435" width="120" height="52" as="geometry" />
