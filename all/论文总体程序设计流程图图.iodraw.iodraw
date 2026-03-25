@@ -350,7 +350,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3240" y="7494" />
-              <mxPoint x="3240" y="7550" />
+              <mxPoint x="3240" y="7530" />
+              <mxPoint x="3242" y="7530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -394,7 +395,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3170" y="7550" width="144" height="110" as="geometry" />
+          <mxGeometry x="3168" y="7550" width="144" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-279" value="红外无遮挡且传感器&#xa;处于锁定态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3372" y="7552" width="136" height="108" as="geometry" />
