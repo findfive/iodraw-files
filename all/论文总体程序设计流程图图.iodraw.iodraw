@@ -407,20 +407,14 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-281" value="将包裹目标转入&#xa;下一站点队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3250" y="7690" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-348" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-282" target="KaNf-R4lzkF0VlSjohUQ-284">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-282" value="锁定该站传感器&#xa;(防止重复触发)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3170.25" y="7803" width="139.51" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-343" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-283" target="KaNf-R4lzkF0VlSjohUQ-284">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-283" value="解除状态锁锁定&#xa;(重置为就绪)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3413.5" y="7693.24" width="130" height="33.53" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-284" value="RTOS任务延时&#xa;释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3303" y="7950" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="3284.5" y="7950" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-285" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-272" target="KaNf-R4lzkF0VlSjohUQ-273">
           <mxGeometry relative="1" as="geometry">
