@@ -335,7 +335,7 @@
           <mxGeometry x="3297.5" y="7450" width="105" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3176" y="7570" width="180" height="118" as="geometry" />
+          <mxGeometry x="3190" y="7550" width="144" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-279" value="红外无遮挡且传感器处于锁定态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3441" y="8375" width="258" height="258" as="geometry" />
