@@ -1,17 +1,17 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="IO4Pn5ogKN1ugYvFN0Jo">
-    <mxGraphModel dx="323" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cknG1NyJcouFHnxYW82i-30" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="219" y="30" width="55" height="34" as="geometry" />
+          <mxGeometry x="185.5" y="30" width="121" height="34" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-31" value="系统硬件与网络初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="136" y="114" width="220" height="49" as="geometry" />
+          <mxGeometry x="136.5" y="90" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-32" value="建立MQTT云端与局域网通信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="124" y="212" width="245" height="66" as="geometry" />
+          <mxGeometry x="124" y="170" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-33" value="进入系统监控主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="144" y="329" width="204" height="49" as="geometry" />
