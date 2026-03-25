@@ -352,7 +352,7 @@
           <mxGeometry x="3082.9799999999996" y="6600" width="167.51" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-460" value="状态机是否处于&#xa;等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3270.49" y="6597" width="219.51" height="103" as="geometry" />
+          <mxGeometry x="3300.99" y="6600" width="129.51" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-461" value="计算串级PID偏差并更新左右轮PWM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2740" y="7801" width="259" height="66" as="geometry" />
@@ -469,6 +469,9 @@
               <mxPoint x="3730" y="6336" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-495" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-458" target="KaNf-R4lzkF0VlSjohUQ-460">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
