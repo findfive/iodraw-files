@@ -370,7 +370,7 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-331" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-330">
           <mxGeometry x="-0.1088" y="1" relative="1" as="geometry">
-            <mxPoint x="4" as="offset" />
+            <mxPoint x="-5" y="-34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
