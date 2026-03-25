@@ -387,8 +387,9 @@
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278" target="KaNf-R4lzkF0VlSjohUQ-281">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3320.853359375" y="7680" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3340" y="7605" />
               <mxPoint x="3340" y="7670" />
