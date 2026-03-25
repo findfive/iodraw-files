@@ -253,7 +253,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-201" value="队列提取的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2861.49" y="6542" width="147.01" height="110" as="geometry" />
+          <mxGeometry x="2861.49" y="6501" width="147.01" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-202" target="KaNf-R4lzkF0VlSjohUQ-199">
           <mxGeometry relative="1" as="geometry" />
