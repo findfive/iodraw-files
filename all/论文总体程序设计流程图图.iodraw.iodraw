@@ -429,7 +429,7 @@
           <mxGeometry x="3185.5" y="6801" width="111.51" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-464" value="底层任务时钟延时与看门狗喂狗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3129.49" y="6930" width="252" height="66" as="geometry" />
+          <mxGeometry x="3129.49" y="6930" width="180.51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-553" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-465" target="KaNf-R4lzkF0VlSjohUQ-466">
           <mxGeometry relative="1" as="geometry" />
