@@ -427,6 +427,9 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-152" value="读取一帧图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2908.75" y="4970" width="124.5" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-153" target="KaNf-R4lzkF0VlSjohUQ-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-153" value="读取是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2903.75" y="5030" width="134.5" height="80" as="geometry" />
         </mxCell>
@@ -434,7 +437,7 @@
           <mxGeometry x="2720" y="5435" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-155" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2897.75" y="5130" width="146.5" height="115" as="geometry" />
+          <mxGeometry x="2899.88" y="5150" width="142.25" height="75" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-156" value="更新本地UI视频画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2934" y="6036" width="203" height="49" as="geometry" />
