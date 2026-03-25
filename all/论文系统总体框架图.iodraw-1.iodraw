@@ -10,9 +10,6 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-2" value="二、ESP32传送带分拣主程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="866" width="328" height="645" as="geometry" />
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-3" value="一、PC端视觉识别主程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="142" y="20" width="308" height="774" as="geometry" />
-        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-4" value="采集摄像头动态图像流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="186" y="45" width="220" height="49" as="geometry" />
         </mxCell>
