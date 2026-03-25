@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-43" value="读取一帧图像(cap.read)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3124" y="600" width="156" height="26" as="geometry" />
+          <mxGeometry x="3161.5" y="550" width="156" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-44" value="读取是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3164" y="670" width="151" height="151" as="geometry" />
@@ -35,7 +35,8 @@
             <mxPoint x="3530" y="620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3470" y="992" />
-              <mxPoint x="3470" y="602" />
+              <mxPoint x="3470" y="570" />
+              <mxPoint x="3318" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
