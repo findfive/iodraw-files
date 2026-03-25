@@ -473,19 +473,14 @@
             <mxPoint x="8" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-563" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-465">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-572" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-465">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4080" y="5433" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="4060" y="5433" />
-              <mxPoint x="4060" y="5430" />
-              <mxPoint x="4080" y="5430" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-564" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-563">
-          <mxGeometry x="0.0645" y="1" relative="1" as="geometry">
-            <mxPoint x="-9" y="-11" as="offset" />
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-573" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-572">
+          <mxGeometry x="-0.3833" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-465" value="光电传感器是否&#xa;持续检测到货物?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
