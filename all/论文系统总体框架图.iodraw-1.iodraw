@@ -189,8 +189,8 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-199" value="传感器是否确认包裹已完全离开?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2654.99" y="7828" width="258" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-200" value="锁定当前传感器 (防止重复触发)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2849.48" y="6610" width="160.52" height="40" as="geometry" />
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-200" value="锁定当前传感器 &#xa;(防止重复触发)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2874.7400000000002" y="6600" width="120.52" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-201" value="队列提取的分拣目标是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2891.99" y="7381" width="258" height="258" as="geometry" />
