@@ -26,10 +26,10 @@
           <mxGeometry x="121" y="690" width="213" height="213" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-8" value="是否通过冷却防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="194" y="1006" width="215" height="215" as="geometry" />
+          <mxGeometry x="191" y="954" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-9" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="1294" width="239" height="49" as="geometry" />
+          <mxGeometry x="264" y="1190" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-10" value="小车是否处于空闲且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="1943" width="258" height="258" as="geometry" />
