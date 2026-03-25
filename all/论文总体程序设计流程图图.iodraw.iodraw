@@ -303,13 +303,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-272" value="ESP32程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3284" y="7020" width="129" height="34" as="geometry" />
+          <mxGeometry x="3284.5" y="7040" width="129" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-273" value="系统硬件与RTOS队列初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3221" y="7104" width="256" height="49" as="geometry" />
+          <mxGeometry x="3269.5" y="7100" width="159" height="43" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-274" value="进入传感器监控主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3239" y="7202" width="220" height="49" as="geometry" />
+          <mxGeometry x="3239" y="7170" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-275" value="是否收到云端MQTT指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3155" y="7301" width="224" height="224" as="geometry" />
