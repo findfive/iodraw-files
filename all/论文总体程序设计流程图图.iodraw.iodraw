@@ -384,20 +384,6 @@
             <mxPoint x="7" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-340" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-279">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3480" y="7750" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3570" y="7604" />
-              <mxPoint x="3570" y="7750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-344" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-340">
-          <mxGeometry x="-0.3974" relative="1" as="geometry">
-            <mxPoint x="20" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-279" value="红外无遮挡且传感器&#xa;处于锁定态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3410.5" y="7550" width="136" height="108" as="geometry" />
         </mxCell>
