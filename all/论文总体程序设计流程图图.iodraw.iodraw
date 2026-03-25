@@ -382,7 +382,7 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-561" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-460">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4020" y="5580" as="targetPoint" />
+            <mxPoint x="4010" y="5570" as="targetPoint" />
             <Array as="points">
               <mxPoint x="4086" y="5353" />
               <mxPoint x="4086" y="5570" />
@@ -426,6 +426,9 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-462" value="路口计数累加是否&#xa;达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3756.25" y="5389" width="124.53" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-584" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-463" target="KaNf-R4lzkF0VlSjohUQ-464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-463" value="停车执行卸货动作并&#xa;切换全局状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3801.25" y="5503" width="111.51" height="39" as="geometry" />
         </mxCell>
@@ -440,7 +443,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-464" value="底层任务时钟延时&#xa;与看门狗喂狗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3786.750000000001" y="5597" width="140.51" height="40" as="geometry" />
+          <mxGeometry x="3785.4900000000007" y="5590" width="140.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-553" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-465" target="KaNf-R4lzkF0VlSjohUQ-466">
           <mxGeometry relative="1" as="geometry" />
