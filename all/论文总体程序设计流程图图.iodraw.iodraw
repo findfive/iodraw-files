@@ -396,7 +396,11 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-561" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-460">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3460" y="6870" as="targetPoint" />
+            <mxPoint x="3460" y="6860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3461" y="6618" />
+              <mxPoint x="3461" y="6860" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-460" value="状态机是否处于&#xa;等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
