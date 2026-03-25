@@ -184,14 +184,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-210" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-195" target="KaNf-R4lzkF0VlSjohUQ-197">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2768.99" y="6439" />
-              <mxPoint x="2768.99" y="6566" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-212" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-197" target="KaNf-R4lzkF0VlSjohUQ-198">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
