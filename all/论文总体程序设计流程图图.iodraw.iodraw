@@ -378,6 +378,11 @@
             <mxPoint x="3090" y="6800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-547" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-546">
+          <mxGeometry x="-0.4234" y="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-459" value="灰度传感器是否&#xa;检测到黑色十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3111.47" y="6568" width="137.02" height="100" as="geometry" />
         </mxCell>
@@ -397,21 +402,6 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-542" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-541">
           <mxGeometry x="-0.1519" y="2" relative="1" as="geometry">
             <mxPoint x="9" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-544" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-462" target="KaNf-R4lzkF0VlSjohUQ-461">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3090" y="6800" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3089" y="6739" />
-              <mxPoint x="3089" y="6781" />
-              <mxPoint x="3089" y="6781" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-545" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-544">
-          <mxGeometry x="-0.5021" y="2" relative="1" as="geometry">
-            <mxPoint y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-462" value="路口计数累加是否&#xa;达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
