@@ -363,8 +363,8 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3190" y="7550" width="144" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-279" value="红外无遮挡且&#xa;传感器处于锁定态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3334" y="7570" width="146" height="108" as="geometry" />
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-279" value="红外无遮挡且传感器&#xa;处于锁定态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3334" y="7570" width="136" height="108" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-280" value="触发推料舵机动作并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2750" y="8471" width="252" height="66" as="geometry" />
