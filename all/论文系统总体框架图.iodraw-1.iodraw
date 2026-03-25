@@ -100,9 +100,6 @@
             <mxPoint x="670" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-38" target="cknG1NyJcouFHnxYW82i-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-38" value="PC端向云端发布分拣指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="830" y="730" width="153" height="24.5" as="geometry" />
         </mxCell>
