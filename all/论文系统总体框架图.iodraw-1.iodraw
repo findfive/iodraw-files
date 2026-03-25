@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-39" value="小车是否处于空闲&#xa;且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="390" y="850" width="141.25" height="138" as="geometry" />
+          <mxGeometry x="390" y="939" width="141.25" height="138" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-40" value="ESP32控制对应舵机推料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="645.87" y="910" width="158.5" height="29" as="geometry" />
