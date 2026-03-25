@@ -225,9 +225,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-262" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-261">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-262" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-261">
           <mxGeometry x="-0.891" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-199" value="传感器是否确认&#xa;包裹已完全离开?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
