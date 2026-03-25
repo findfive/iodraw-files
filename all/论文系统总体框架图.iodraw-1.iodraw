@@ -145,7 +145,7 @@
           <mxGeometry x="2808.99" y="6240" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-197" value="红外传感器是否检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2729.99" y="6591" width="247" height="247" as="geometry" />
+          <mxGeometry x="2811.99" y="6350" width="247" height="247" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-198" value="当前传感器的状态锁是否就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2805.99" y="6911" width="258" height="258" as="geometry" />
@@ -186,13 +186,6 @@
             <Array as="points">
               <mxPoint x="2768.99" y="6439" />
               <mxPoint x="2768.99" y="6566" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-211" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.27;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-196" target="KaNf-R4lzkF0VlSjohUQ-197">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3171.99" y="6566" />
             </Array>
           </mxGeometry>
         </mxCell>
