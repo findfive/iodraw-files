@@ -332,7 +332,7 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-457" value="解析目标并判断是否&#xa;缓存为下一次任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3205.75" y="6420" width="135.51" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-458" value="状态机是否处于运动状态(取货/卸货/返航)?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-458" value="状态机是否处于&#xa;运动状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3183.87" y="6490" width="179.27" height="144" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-459" value="灰度传感器是否检测到黑色十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
