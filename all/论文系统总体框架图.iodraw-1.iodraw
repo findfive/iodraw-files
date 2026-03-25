@@ -34,6 +34,9 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-39" value="小车是否处于空闲且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="1953" width="258" height="258" as="geometry" />
         </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-40" target="cknG1NyJcouFHnxYW82i-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-40" value="ESP32控制对应舵机推料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="1705" width="230" height="49" as="geometry" />
         </mxCell>
