@@ -621,9 +621,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-381" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-283" target="KaNf-R4lzkF0VlSjohUQ-349">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
