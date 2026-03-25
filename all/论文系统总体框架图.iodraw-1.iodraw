@@ -32,13 +32,18 @@
           <mxGeometry x="670" y="800" width="239" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-39" value="小车是否处于空闲且收到派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1953" width="258" height="258" as="geometry" />
+          <mxGeometry x="30" y="1980" width="258" height="258" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.728;entryY=0.782;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-40" target="cknG1NyJcouFHnxYW82i-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-40" value="ESP32控制对应舵机推料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="1020" width="230" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cknG1NyJcouFHnxYW82i-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384.5" y="2100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-41" value="通过局域网下发小车调度派单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258.5" y="1180" width="252" height="66" as="geometry" />
@@ -116,13 +121,6 @@
         <mxCell id="cknG1NyJcouFHnxYW82i-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-40" target="cknG1NyJcouFHnxYW82i-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cknG1NyJcouFHnxYW82i-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.16;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-41" target="cknG1NyJcouFHnxYW82i-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="383" y="1928" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-61" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-39" target="cknG1NyJcouFHnxYW82i-42">
