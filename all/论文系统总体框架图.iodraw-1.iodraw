@@ -11,13 +11,13 @@
           <mxGeometry x="678.62" y="130" width="130.75" height="29" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-32" value="建立MQTT云端与局域网通信" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="661" y="190" width="166" height="36" as="geometry" />
+          <mxGeometry x="661" y="180" width="166" height="36" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-33" target="cknG1NyJcouFHnxYW82i-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-33" value="进入系统监控主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="667" y="260" width="153.99" height="30" as="geometry" />
+          <mxGeometry x="667.01" y="240" width="153.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-34" target="cknG1NyJcouFHnxYW82i-36">
           <mxGeometry relative="1" as="geometry" />
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-34" value="摄像头是否捕获&#xa;有效画面?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="683.5" y="320" width="120.76" height="110" as="geometry" />
+          <mxGeometry x="683.74" y="300" width="120.76" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cknG1NyJcouFHnxYW82i-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cknG1NyJcouFHnxYW82i-35" target="cknG1NyJcouFHnxYW82i-39">
           <mxGeometry relative="1" as="geometry" />
