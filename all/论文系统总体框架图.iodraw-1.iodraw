@@ -239,7 +239,7 @@
           <mxGeometry x="3031" y="6700" width="129" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-204" value="解除状态锁锁定 (重置就绪状态)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3105.99" y="8159" width="172" height="66" as="geometry" />
+          <mxGeometry x="2848.99" y="6960" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-205" value="任务延时以释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2904.99" y="8275" width="249" height="49" as="geometry" />
