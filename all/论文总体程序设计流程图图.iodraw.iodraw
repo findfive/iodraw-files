@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="-1651" dy="-4305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1900" dy="-4416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,7 +318,7 @@
           <mxGeometry x="3292.5" y="7240" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-276" value="解析目标站点并压入起始队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3056" y="7597" width="252" height="66" as="geometry" />
+          <mxGeometry x="3220" y="7400" width="110" height="46" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-277" value="红外传感器触发且状态锁就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3137" y="7714" width="258" height="258" as="geometry" />
@@ -352,13 +352,6 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-286" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-273" target="KaNf-R4lzkF0VlSjohUQ-274">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-288" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-275" target="KaNf-R4lzkF0VlSjohUQ-276">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3182" y="7561" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-289" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-275" target="KaNf-R4lzkF0VlSjohUQ-277">
