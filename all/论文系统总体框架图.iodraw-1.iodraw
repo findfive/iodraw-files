@@ -206,8 +206,9 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-202" value="控制推料舵机动作&#xa;并向小车下发指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2874.49" y="6700" width="121.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-203" target="KaNf-R4lzkF0VlSjohUQ-199">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-203">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2900" y="6760" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3096" y="6760" />
               <mxPoint x="2935" y="6760" />
