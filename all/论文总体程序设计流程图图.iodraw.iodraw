@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="-1997" dy="-4460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2202" dy="-4551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,7 +380,7 @@
           <mxGeometry x="3297.99" y="6571" width="129.51" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-461" value="计算串级PID偏差并&#xa;更新左右轮PWM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3031" y="6801" width="115.75" height="39" as="geometry" />
+          <mxGeometry x="3033.25" y="6801" width="115.75" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-541" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-462" target="KaNf-R4lzkF0VlSjohUQ-463">
           <mxGeometry relative="1" as="geometry">
@@ -392,6 +392,11 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-542" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KaNf-R4lzkF0VlSjohUQ-541">
           <mxGeometry x="-0.1519" y="2" relative="1" as="geometry">
             <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-544" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-462">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3090" y="6800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-462" value="路口计数累加是否&#xa;达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -658,15 +663,6 @@
             <Array as="points">
               <mxPoint x="3755.49" y="10222" />
               <mxPoint x="3755.49" y="8666" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-543" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.342;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-462" target="KaNf-R4lzkF0VlSjohUQ-461">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3070" y="6740" />
-              <mxPoint x="3070" y="6781" />
-              <mxPoint x="3071" y="6781" />
             </Array>
           </mxGeometry>
         </mxCell>
