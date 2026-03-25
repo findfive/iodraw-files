@@ -488,6 +488,189 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-507" value="STM32小车程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3241" y="8000" width="165" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-508" value="初始化外设与PID控制参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3202" y="8084" width="243" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-509" value="进入底层 FSM 轮询主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3203" y="8182" width="241" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-510" value="串口是否收到ESP32派单指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3114" y="8281" width="252" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-511" value="解析目标并判断是否缓存为下一次任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3489" y="8606" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-512" value="状态机是否处于运动状态(取货/卸货/返航)?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3108" y="8722" width="264" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-513" value="灰度传感器是否检测到黑色十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2943" y="9059" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-514" value="状态机是否处于等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3344" y="9059" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-515" value="计算串级PID偏差并更新左右轮PWM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="9721" width="259" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-516" value="路口计数累加是否达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3079" y="9390" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-517" value="停车执行卸货动作并切换全局状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3099" y="9721" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-518" value="底层任务时钟延时与看门狗喂狗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3275" y="9837" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-519" value="光电传感器是否持续检测到货物?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3426" y="9390" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-520" value="确认装货完成, 切换状态为前往卸货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3525" y="9721" width="204" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-521" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-507" target="KaNf-R4lzkF0VlSjohUQ-508">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-522" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-508" target="KaNf-R4lzkF0VlSjohUQ-509">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-523" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-509" target="KaNf-R4lzkF0VlSjohUQ-510">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3240" y="8256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-524" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-510" target="KaNf-R4lzkF0VlSjohUQ-511">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3615" y="8570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-525" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-510" target="KaNf-R4lzkF0VlSjohUQ-512">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3156" y="8570" />
+              <mxPoint x="3156" y="8697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-526" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.29;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-511" target="KaNf-R4lzkF0VlSjohUQ-512">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3615" y="8697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-527" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-512" target="KaNf-R4lzkF0VlSjohUQ-513">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3072" y="9023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-528" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-512" target="KaNf-R4lzkF0VlSjohUQ-514">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3473" y="9023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-529" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.48;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-513" target="KaNf-R4lzkF0VlSjohUQ-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2906" y="9354" />
+              <mxPoint x="2906" y="9685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-530" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-513" target="KaNf-R4lzkF0VlSjohUQ-516">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3208" y="9354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-531" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-516" target="KaNf-R4lzkF0VlSjohUQ-515">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3055" y="9685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-532" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-516" target="KaNf-R4lzkF0VlSjohUQ-517">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3225" y="9685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-533" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-515" target="KaNf-R4lzkF0VlSjohUQ-518">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2920" y="9812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-534" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-517" target="KaNf-R4lzkF0VlSjohUQ-518">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3225" y="9812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-535" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-514" target="KaNf-R4lzkF0VlSjohUQ-519">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3555" y="9354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-536" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-514" target="KaNf-R4lzkF0VlSjohUQ-518">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3388" y="9354" />
+              <mxPoint x="3388" y="9812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-537" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-519" target="KaNf-R4lzkF0VlSjohUQ-520">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3627" y="9685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-538" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.69;entryY=0;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-519" target="KaNf-R4lzkF0VlSjohUQ-518">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3483" y="9685" />
+              <mxPoint x="3483" y="9812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-539" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.01;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-520" target="KaNf-R4lzkF0VlSjohUQ-518">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3627" y="9812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-540" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.21;entryX=1;entryY=0.77;rounded=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-518" target="KaNf-R4lzkF0VlSjohUQ-509">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3780" y="9812" />
+              <mxPoint x="3780" y="8256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
