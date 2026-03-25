@@ -397,6 +397,11 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-460" value="状态机是否处于&#xa;等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3297.99" y="6571" width="129.51" height="93" as="geometry" />
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-558" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-461">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3091.125" y="6870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-461" value="计算串级PID偏差并&#xa;更新左右轮PWM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3033.25" y="6801" width="115.75" height="39" as="geometry" />
         </mxCell>
@@ -425,11 +430,14 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-462" value="路口计数累加是否&#xa;达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3117.7099999999996" y="6694" width="124.53" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-557" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-463" target="KaNf-R4lzkF0VlSjohUQ-464">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-463" value="停车执行卸货动作并&#xa;切换全局状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3185.5" y="6801" width="111.51" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-464" value="底层任务时钟延时&#xa;与看门狗喂狗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3178.4900000000002" y="6910" width="140.51" height="40" as="geometry" />
+          <mxGeometry x="3171.0000000000005" y="6900" width="140.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-553" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-465" target="KaNf-R4lzkF0VlSjohUQ-466">
           <mxGeometry relative="1" as="geometry" />
