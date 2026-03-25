@@ -176,7 +176,7 @@
           <mxGeometry x="2860.99" y="6299" width="148.01" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-198" value="当前传感器的状态锁是否就绪?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2806.49" y="6420" width="258" height="258" as="geometry" />
+          <mxGeometry x="2806.49" y="6420" width="113.51" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-199" value="传感器是否确认包裹已完全离开?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2654.99" y="7828" width="258" height="258" as="geometry" />
