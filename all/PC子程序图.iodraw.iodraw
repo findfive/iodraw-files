@@ -43,7 +43,7 @@
           <mxGeometry x="62" y="601" width="139" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-11" value="调用串口/MQTT发送分拣调度指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="850" width="150" height="40" as="geometry" />
+          <mxGeometry x="67.38" y="830" width="134.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-12" value="重置 &#39;上次下发时间&#39; 戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242" y="1670" width="241" height="84" as="geometry" />
