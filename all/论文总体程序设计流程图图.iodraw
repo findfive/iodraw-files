@@ -1,16 +1,16 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="-773" dy="-3912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1997" dy="-4460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-150" target="KaNf-R4lzkF0VlSjohUQ-151">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-150" target="KaNf-R4lzkF0VlSjohUQ-151" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-150" value="PC端程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2916.62" y="4906" width="149.38" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-151" target="KaNf-R4lzkF0VlSjohUQ-152">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-151" target="KaNf-R4lzkF0VlSjohUQ-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-151" value="初始化相机与PaddleOCR" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -123,13 +123,13 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-272" value="ESP32程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3299.99" y="4866" width="159.01" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-273" target="KaNf-R4lzkF0VlSjohUQ-274">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-273" target="KaNf-R4lzkF0VlSjohUQ-274" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-273" value="系统硬件与RTOS队列初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3300" y="4922" width="159" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-274" target="KaNf-R4lzkF0VlSjohUQ-275">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-274" target="KaNf-R4lzkF0VlSjohUQ-275" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-274" value="进入传感器监控主循环" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -194,12 +194,12 @@
             <mxPoint x="-5" y="-34" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3160" y="5440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-7" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r9Gf-F6kDUteEOy_p3Q7-6">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-7" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="r9Gf-F6kDUteEOy_p3Q7-6" vertex="1" connectable="0">
           <mxGeometry x="-0.7112" y="-1" relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
@@ -281,19 +281,19 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-349" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="3364.75" y="5456.75" width="39.49" height="248.5" as="geometry" />
         </mxCell>
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-453" target="KaNf-R4lzkF0VlSjohUQ-454">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-453" target="KaNf-R4lzkF0VlSjohUQ-454" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-453" value="STM32小车程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3825.62" y="4848" width="148.24" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-454" target="KaNf-R4lzkF0VlSjohUQ-455">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-454" target="KaNf-R4lzkF0VlSjohUQ-455" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-454" value="初始化外设与PID控制参数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3825.62" y="4906" width="148.24" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-455" target="KaNf-R4lzkF0VlSjohUQ-456">
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-455" target="KaNf-R4lzkF0VlSjohUQ-456" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-455" value="进入底层 FSM 轮询主循环" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
