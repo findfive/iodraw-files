@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-67SfyBbp6BAFBnuORJF-2" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="47" y="41" width="167" height="34" as="geometry" />
+          <mxGeometry x="64" y="58" width="133" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-3" target="-67SfyBbp6BAFBnuORJF-5">
           <mxGeometry relative="1" as="geometry" />
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-3" value="是否到达&#xa;识别冷却时间" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="69" y="110" width="123" height="100" as="geometry" />
+          <mxGeometry x="69" y="118" width="123" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-4" value="退出子程序, 返回主循环" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="1804" width="194" height="34" as="geometry" />
