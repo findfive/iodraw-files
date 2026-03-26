@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="N1lJNZ6ws7coj-t5694a" name="第 1 页">
-    <mxGraphModel dx="1001" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="581" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
           <mxGeometry x="69" y="118" width="123" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-4" value="退出子程序, 返回主循环" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="34.5" y="1000" width="194" height="34" as="geometry" />
+          <mxGeometry x="63.25" y="950" width="194" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-5" value="加载旋转角度数组 &#xa;(0°, 90°, 180°, 270°)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60.5" y="250" width="140" height="40" as="geometry" />
@@ -64,14 +64,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-21" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0.95;entryY=1;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-9" target="-67SfyBbp6BAFBnuORJF-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="391" y="1071" />
-              <mxPoint x="391" y="793" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-22" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-9" target="-67SfyBbp6BAFBnuORJF-10">
           <mxGeometry x="-0.2272" y="9" relative="1" as="geometry">
             <Array as="points" />
@@ -86,13 +78,6 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-11" target="-67SfyBbp6BAFBnuORJF-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-6" target="-67SfyBbp6BAFBnuORJF-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="99" y="404" as="sourcePoint" />
-            <mxPoint x="132" y="1804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-10" value="生成对应的目标站点&#xa;编号 (Station ID)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
