@@ -42,7 +42,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-14" value="Y (冷却中)" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.24;entryY=0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-3" target="-67SfyBbp6BAFBnuORJF-4">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-14" value="N (冷却中)" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.24;entryY=0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-3" target="-67SfyBbp6BAFBnuORJF-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="373" />
