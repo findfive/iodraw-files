@@ -1,11 +1,19 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="N1lJNZ6ws7coj-t5694a" name="第 1 页">
-    <mxGraphModel dx="1735" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1355" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-67SfyBbp6BAFBnuORJF-2" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="40" width="167" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-67SfyBbp6BAFBnuORJF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-3" target="-67SfyBbp6BAFBnuORJF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-67SfyBbp6BAFBnuORJF-27" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-67SfyBbp6BAFBnuORJF-26">
+          <mxGeometry x="-0.2657" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-3" value="是否到达&#xa;识别冷却时间" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="69" y="110" width="123" height="100" as="geometry" />
