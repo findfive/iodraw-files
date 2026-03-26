@@ -149,7 +149,7 @@
           <mxGeometry x="434.88" y="258" width="136.25" height="127" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-71" value="利用OpenCV旋转至当前角度并调用PaddleOCR提取特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="443" width="250" height="84" as="geometry" />
+          <mxGeometry x="423" y="443" width="160" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-72" value="是否命中目标关键字&#xa;且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="639" y="926.5" width="257" height="257" as="geometry" />
