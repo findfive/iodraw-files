@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-67SfyBbp6BAFBnuORJF-2" value="进入视觉识别子程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-2" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="40" width="167" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-3" value="系统当前时间 - 上次下发时间 &amp;lt; 冷却常量?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
