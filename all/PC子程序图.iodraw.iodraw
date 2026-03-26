@@ -37,7 +37,7 @@
           <mxGeometry x="422.75" y="87" width="120.5" height="107" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-69" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="431.5" y="639" width="103" height="34" as="geometry" />
+          <mxGeometry x="431.5" y="642" width="103" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-70">
           <mxGeometry relative="1" as="geometry">
@@ -58,11 +58,11 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-71" value="利用OpenCV旋转至当前角度并调用PaddleOCR提取特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="399.5" y="354" width="167" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-72" target="-67SfyBbp6BAFBnuORJF-70">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-72" target="-67SfyBbp6BAFBnuORJF-70">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="493" />
+              <mxPoint x="600" y="483" />
               <mxPoint x="600" y="273" />
             </Array>
           </mxGeometry>
