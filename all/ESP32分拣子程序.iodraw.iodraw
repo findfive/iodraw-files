@@ -48,7 +48,7 @@
           <mxGeometry x="80" y="565" width="136.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-9" value="不推料，存入下一站缓存队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="650" width="140" height="40" as="geometry" />
+          <mxGeometry x="80" y="620" width="136.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-1" target="rbWVYp2GGXw5zbpGU6X0-2">
           <mxGeometry relative="1" as="geometry">
