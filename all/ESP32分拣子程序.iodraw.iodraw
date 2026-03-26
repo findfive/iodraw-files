@@ -44,10 +44,10 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-7" value="目标是当前站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170.25" y="450" width="119.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-8" value="输出PWM波控制舵机推料并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-8" value="控制舵机推料并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="1294" width="254" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-9" value="不做推料动作，将指令存入下一站缓存队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-9" value="不推料，存入下一站缓存队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="364" y="1294" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-1" target="rbWVYp2GGXw5zbpGU6X0-2">
