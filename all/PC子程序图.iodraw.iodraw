@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="N1lJNZ6ws7coj-t5694a" name="第 1 页">
-    <mxGraphModel dx="1707" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1864" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,11 +111,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-6" target="-67SfyBbp6BAFBnuORJF-10">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="99" y="404" as="sourcePoint" />
-            <mxPoint x="132" y="1804" as="targetPoint" />
+            <mxPoint x="-10.0031578947371" y="403.9473684210525" as="sourcePoint" />
+            <mxPoint x="13.635000000000232" y="746" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-10" value="生成对应的目标站点&#xa;编号 (Station ID)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
