@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="N1lJNZ6ws7coj-t5694a" name="第 1 页">
-    <mxGraphModel dx="854" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1452" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,19 +52,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-8" value="调用PaddleOCR提取&#xa;文本特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="505" width="140.25" height="35" as="geometry" />
+          <mxGeometry x="61" y="507" width="140.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-9" value="是否命中目标关键字&#xa;且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="61" y="566" width="139" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-11" value="调用MQTT发送&#xa;分拣调度指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="63.25" y="769" width="134.5" height="40" as="geometry" />
+          <mxGeometry x="63.25" y="772" width="134.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-12" target="-67SfyBbp6BAFBnuORJF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-12" value="重置时间&#39;戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="63.38" y="833" width="135.5" height="40" as="geometry" />
+          <mxGeometry x="63.38" y="836" width="135.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-2" target="-67SfyBbp6BAFBnuORJF-3">
           <mxGeometry relative="1" as="geometry">
@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-10" value="生成对应的目标站点&#xa;编号 (Station ID)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="63.75" y="706" width="134.75" height="40" as="geometry" />
+          <mxGeometry x="63.75" y="707" width="134.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-36" value="进入视觉识别子程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="517" y="30" width="167" height="34" as="geometry" />
