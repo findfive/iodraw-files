@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="oQXW5FM4CnRb433FA5_1" name="第 1 页">
-    <mxGraphModel dx="440" dy="197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="528" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-25" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rbWVYp2GGXw5zbpGU6X0-24">
           <mxGeometry x="-0.1198" relative="1" as="geometry">
-            <mxPoint x="17" y="-7" as="offset" />
+            <mxPoint x="16" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-4" value="站点红外传感器&#xa;是否检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -39,7 +39,7 @@
           <mxGeometry x="127" y="1411" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-6" value="从当前站点的队列中&#xa;取出队首指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="281" width="134" height="40" as="geometry" />
+          <mxGeometry x="163" y="421" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-7" value="取出的指令目标是否为当前站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="209" y="963" width="258" height="258" as="geometry" />
