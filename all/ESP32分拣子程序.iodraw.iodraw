@@ -33,13 +33,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-4" value="站点红外传感器&#xa;是否检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170.75" y="280" width="117.5" height="120" as="geometry" />
+          <mxGeometry x="170.75" y="280" width="119.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-5" value="结束本轮处理" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="1411" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-6" value="从当前站点的队列中&#xa;取出队首指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163" y="430" width="134" height="40" as="geometry" />
+          <mxGeometry x="162.5" y="390" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-7" value="取出的指令目标是否&#xa;为当前站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170.25" y="500" width="119.5" height="100" as="geometry" />
