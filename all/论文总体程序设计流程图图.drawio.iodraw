@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2ZFK9PcIWqx3ot1Rr_fW">
-    <mxGraphModel dx="-2247" dy="-4571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2078" dy="-4496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,6 +194,16 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-331" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KaNf-R4lzkF0VlSjohUQ-330" vertex="1" connectable="0">
           <mxGeometry x="-0.1088" y="1" relative="1" as="geometry">
             <mxPoint x="-5" y="-34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-278">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3160" y="5440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9Gf-F6kDUteEOy_p3Q7-7" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r9Gf-F6kDUteEOy_p3Q7-6">
+          <mxGeometry x="-0.7112" y="-1" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-278" value="队列取出的分拣目标&#xa;是否为本站?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
