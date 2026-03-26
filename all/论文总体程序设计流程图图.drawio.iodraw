@@ -288,7 +288,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-453" value="STM32小车程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3825.62" y="4849" width="148.24" height="34" as="geometry" />
+          <mxGeometry x="3825.62" y="4842" width="148.24" height="34" as="geometry" />
         </mxCell>
         <mxCell id="r9Gf-F6kDUteEOy_p3Q7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-454" target="KaNf-R4lzkF0VlSjohUQ-455">
           <mxGeometry relative="1" as="geometry" />
