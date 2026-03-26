@@ -239,14 +239,13 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-283" value="解除状态锁锁定&#xa;(重置为就绪)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3433.99" y="5523.96" width="130" height="38.04" as="geometry" />
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-284" target="KaNf-R4lzkF0VlSjohUQ-274" edge="1">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-284" target="KaNf-R4lzkF0VlSjohUQ-274" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3680.49" y="4951.25" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3382" y="5650" />
               <mxPoint x="3630" y="5650" />
               <mxPoint x="3630" y="5010" />
-              <mxPoint x="3446" y="5010" />
             </Array>
           </mxGeometry>
         </mxCell>
