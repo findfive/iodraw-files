@@ -117,7 +117,7 @@
           <mxGeometry x="216.63" y="545.38" width="43.25" height="172.5" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-58" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="995.63" y="34" width="122.75" height="34" as="geometry" />
+          <mxGeometry x="635.63" y="34" width="122.75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-59" target="rbWVYp2GGXw5zbpGU6X0-60">
           <mxGeometry relative="1" as="geometry" />
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-59" value="红外传感器&#xa;检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1001.5" y="86" width="113" height="88" as="geometry" />
+          <mxGeometry x="641.5" y="86" width="113" height="88" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-60" target="rbWVYp2GGXw5zbpGU6X0-61">
           <mxGeometry relative="1" as="geometry" />
@@ -148,10 +148,10 @@
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="450" as="targetPoint" />
+            <mxPoint x="690" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="970" y="251" />
-              <mxPoint x="970" y="450" />
+              <mxPoint x="610" y="251" />
+              <mxPoint x="610" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -161,30 +161,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-60" value="标志位处于&#xa;就绪状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="998.75" y="201" width="118.5" height="100" as="geometry" />
+          <mxGeometry x="638.75" y="201" width="118.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-61" value="执行分拣队列判断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="995" y="328" width="126" height="39" as="geometry" />
+          <mxGeometry x="635" y="328" width="126" height="39" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-62" target="rbWVYp2GGXw5zbpGU6X0-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-62" value="把标志位&#xa;设为锁定状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="995.5" y="395" width="125" height="40" as="geometry" />
+          <mxGeometry x="635.5" y="395" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-63" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="998" y="470" width="120" height="34" as="geometry" />
+          <mxGeometry x="638" y="470" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="450" as="targetPoint" />
+            <mxPoint x="710" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1200" y="450" />
+              <mxPoint x="840" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-64" value="把标志位&#xa;恢复为就绪状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1139" y="395" width="125" height="40" as="geometry" />
+          <mxGeometry x="779" y="395" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-58" target="rbWVYp2GGXw5zbpGU6X0-59">
           <mxGeometry relative="1" as="geometry">
