@@ -285,10 +285,10 @@
           <mxGeometry x="3364.75" y="5456.75" width="39.49" height="248.5" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-453" value="STM32小车程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3828" y="4857" width="152.24" height="34" as="geometry" />
+          <mxGeometry x="3830" y="4857" width="148.24" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-454" value="初始化外设与PID控制参数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3834.5" y="4908" width="143.74" height="33" as="geometry" />
+          <mxGeometry x="3830" y="4908" width="148.24" height="33" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-568" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-455" target="KaNf-R4lzkF0VlSjohUQ-456" edge="1">
           <mxGeometry relative="1" as="geometry" />
