@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="N1lJNZ6ws7coj-t5694a" name="第 1 页">
-    <mxGraphModel dx="830" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="581" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,10 +126,10 @@
           <mxGeometry x="63.75" y="707" width="134.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-67" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="47.5" width="126" height="34" as="geometry" />
+          <mxGeometry x="440" y="49.38" width="126" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-68" value="是否到达&#xa;识别冷却时间?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="450.5" y="108.75" width="130" height="118.5" as="geometry" />
+          <mxGeometry x="440" y="108.75" width="130" height="118.5" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-69" value="结束子程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="467" y="1372.5" width="103" height="34" as="geometry" />
@@ -146,9 +146,10 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-73" value="生成站点编号，发送MQTT指令并重置冷却时间戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="645" y="1255.5" width="245" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-67" target="-67SfyBbp6BAFBnuORJF-68">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="503" y="110.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-75" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.12;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-68" target="-67SfyBbp6BAFBnuORJF-69">
