@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="oQXW5FM4CnRb433FA5_1" name="第 1 页">
-    <mxGraphModel dx="1383" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,11 +130,14 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-59" value="红外传感器&#xa;检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1001.5" y="86" width="113" height="88" as="geometry" />
         </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-60" target="rbWVYp2GGXw5zbpGU6X0-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-60" value="标志位处于&#xa;就绪状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="998.75" y="201" width="118.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-61" value="执行分拣队列判断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="964" y="381" width="188" height="49" as="geometry" />
+          <mxGeometry x="995" y="341" width="126" height="39" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-62" value="立刻把标志位设为锁定状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="694" y="803" width="252" height="49" as="geometry" />
@@ -148,13 +151,6 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-58" target="rbWVYp2GGXw5zbpGU6X0-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-67" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-60" target="rbWVYp2GGXw5zbpGU6X0-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="820" y="636" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-61" target="rbWVYp2GGXw5zbpGU6X0-62">
