@@ -43,7 +43,7 @@
           <mxGeometry x="62" y="601" width="139" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-11" value="调用串口/MQTT发送分拣调度指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="236" y="1554" width="253" height="66" as="geometry" />
+          <mxGeometry x="125.51" y="1438" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-12" value="重置 &#39;上次下发时间&#39; 戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242" y="1670" width="241" height="84" as="geometry" />
@@ -66,12 +66,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-17" value="N (全角度未命中)" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-10" target="-67SfyBbp6BAFBnuORJF-4">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-17" value="N (全角度未命中)" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="117" y="793" />
-              <mxPoint x="117" y="1779" />
+              <mxPoint x="6.510000000000005" y="677" />
+              <mxPoint x="6.510000000000005" y="1663" />
             </Array>
+            <mxPoint x="-40.00250000000004" y="670" as="sourcePoint" />
+            <mxPoint x="21.632448979591587" y="1688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-18" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-6" target="-67SfyBbp6BAFBnuORJF-7">
@@ -111,11 +113,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-6" target="-67SfyBbp6BAFBnuORJF-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="-10.0031578947371" y="403.9473684210525" as="sourcePoint" />
-            <mxPoint x="13.635000000000232" y="746" as="targetPoint" />
+            <mxPoint x="99" y="404" as="sourcePoint" />
+            <mxPoint x="132" y="1804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-10" value="生成对应的目标站点&#xa;编号 (Station ID)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
