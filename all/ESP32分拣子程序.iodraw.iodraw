@@ -144,8 +144,8 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-61" value="执行分拣队列判断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="995" y="328" width="126" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-62" value="立刻把标志位&#xa;设为锁定状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="995.5" y="400" width="125" height="40" as="geometry" />
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-62" value="把标志位&#xa;设为锁定状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="995.5" y="395" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-63" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="793" y="910" width="55" height="34" as="geometry" />
