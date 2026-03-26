@@ -51,10 +51,13 @@
             <mxPoint x="420" y="670" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="325" />
-              <mxPoint x="410" y="515" />
-              <mxPoint x="317" y="515" />
-              <mxPoint x="317" y="677" />
+              <mxPoint x="410" y="677" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-51" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rbWVYp2GGXw5zbpGU6X0-50">
+          <mxGeometry x="-0.827" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-4" value="传感器检测&#xa;到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
