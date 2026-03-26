@@ -24,14 +24,22 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-3" value="将目标站点编号&#xa;存入起始站点队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="165" y="213" width="129" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-4" target="rbWVYp2GGXw5zbpGU6X0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rbWVYp2GGXw5zbpGU6X0-24">
+          <mxGeometry x="-0.1198" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-4" value="站点红外传感器&#xa;是否检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170.75" y="280" width="117.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-5" value="结束本轮处理" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="1411" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-6" value="从当前站点的队列中取出队首指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="155.5" y="450" width="148" height="40" as="geometry" />
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-6" value="从当前站点的队列中&#xa;取出队首指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="167.25" y="440" width="124.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-7" value="取出的指令目标是否为当前站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="209" y="963" width="258" height="258" as="geometry" />
