@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="N1lJNZ6ws7coj-t5694a" name="第 1 页">
-    <mxGraphModel dx="1001" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,11 +148,14 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-70" value="是否有未遍历的&#xa;旋转角度" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="425.44" y="220" width="115.12" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="-67SfyBbp6BAFBnuORJF-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-71" target="-67SfyBbp6BAFBnuORJF-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-71" value="利用OpenCV旋转至当前角度并调用PaddleOCR提取特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="399.5" y="354" width="167" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-72" value="是否命中目标关键字&#xa;且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="257" height="257" as="geometry" />
+          <mxGeometry x="398" y="427" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-73" value="生成站点编号，发送MQTT指令并重置冷却时间戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="645" y="1255.5" width="245" height="66" as="geometry" />
