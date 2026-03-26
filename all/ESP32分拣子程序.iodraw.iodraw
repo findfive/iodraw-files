@@ -11,7 +11,7 @@
           <mxGeometry x="174.5" y="90" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-3" value="将目标站点编号存入起始站点队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="211" y="400" width="252" height="66" as="geometry" />
+          <mxGeometry x="123" y="240" width="177" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-4" value="某站点红外传感器是否检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="123" y="516" width="258" height="258" as="geometry" />
@@ -34,13 +34,6 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-1" target="rbWVYp2GGXw5zbpGU6X0-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-11" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-2" target="rbWVYp2GGXw5zbpGU6X0-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="337" y="364" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-12" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-2" target="rbWVYp2GGXw5zbpGU6X0-4">
