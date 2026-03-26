@@ -118,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-10" value="生成对应的目标站点&#xa;编号 (Station ID)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="13.5" y="780" width="146.5" height="40" as="geometry" />
+          <mxGeometry x="63.75" y="760" width="134.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
