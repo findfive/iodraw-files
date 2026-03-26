@@ -31,7 +31,7 @@
           <mxGeometry x="59.75" y="470" width="141.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-8" value="调用 PaddleOCR 提取文本特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="43" y="530" width="175" height="66" as="geometry" />
+          <mxGeometry x="59.75" y="545" width="139" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-9" value="是否命中目标关键字且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="234" y="1107" width="258" height="258" as="geometry" />
