@@ -24,8 +24,8 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-5" value="加载旋转角度数组 &#xa;(0°, 90°, 180°, 270°)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60.5" y="250" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-6" value="是否有未遍历的旋转角度?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="15" y="320" width="231" height="231" as="geometry" />
+        <mxCell id="-67SfyBbp6BAFBnuORJF-6" value="是否有未遍历的&#xa;旋转角度?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="15" y="320" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-7" value="利用 OpenCV 将 ROI 图像旋转至当前角度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="152" y="829" width="204" height="66" as="geometry" />
