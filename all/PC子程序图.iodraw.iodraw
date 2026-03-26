@@ -42,7 +42,7 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-9" value="是否命中目标关键字&#xa;且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="62" y="601" width="139" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-11" value="调用串口/MQTT发送分拣调度指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-11" value="调用MQTT发送&#xa;分拣调度指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63.25" y="820" width="134.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-12" value="重置 &#39;上次下发时间&#39; 戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
