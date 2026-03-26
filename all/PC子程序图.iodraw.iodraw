@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-68" value="是否到达&#xa;识别冷却时间?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="398" y="83" width="170" height="121.25" as="geometry" />
+          <mxGeometry x="400" y="83" width="170" height="121.25" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-69" value="结束子程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="467" y="1372.5" width="103" height="34" as="geometry" />
