@@ -73,6 +73,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-67SfyBbp6BAFBnuORJF-66" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-67SfyBbp6BAFBnuORJF-65">
+          <mxGeometry x="-0.9583" relative="1" as="geometry">
+            <mxPoint x="-4" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-9" value="是否命中目标关键字&#xa;且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="61" y="570" width="139" height="110" as="geometry" />
         </mxCell>
