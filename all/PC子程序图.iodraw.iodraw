@@ -138,7 +138,7 @@
           <mxGeometry x="467" y="1372.5" width="103" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-70" value="是否有未遍历的旋转角度&#xa;(0°, 90°, 180°, 270°)?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="483" y="434.5" width="263" height="263" as="geometry" />
+          <mxGeometry x="371.5" y="247" width="138.5" height="153" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-71" value="利用OpenCV旋转至当前角度并调用PaddleOCR提取特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="489" y="769.5" width="250" height="84" as="geometry" />
@@ -154,13 +154,6 @@
             <Array as="points">
               <mxPoint x="422" y="398.5" />
               <mxPoint x="422" y="1347.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-76" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-68" target="-67SfyBbp6BAFBnuORJF-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="614" y="398.5" />
             </Array>
           </mxGeometry>
         </mxCell>
