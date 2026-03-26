@@ -122,8 +122,8 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-59" value="红外传感器&#xa;检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="827" y="82" width="128" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-60" value="标志位处于就绪状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="791" y="200" width="119" height="130" as="geometry" />
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-60" value="标志位处于&#xa;就绪状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="831.5" y="200" width="119" height="130" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-61" value="执行分拣队列判断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="726" y="673" width="188" height="49" as="geometry" />
