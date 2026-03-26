@@ -27,8 +27,8 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-6" value="是否有未遍历的&#xa;旋转角度?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="64.5" y="322" width="132" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-7" value="利用 OpenCV 将 ROI 图像旋转至当前角度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="28.5" y="490" width="204" height="66" as="geometry" />
+        <mxCell id="-67SfyBbp6BAFBnuORJF-7" value="利用OpenCV将图像&#xa;旋转至当前角度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="28.5" y="490" width="141.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-8" value="调用 PaddleOCR 提取文本特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="167" y="968" width="175" height="66" as="geometry" />
