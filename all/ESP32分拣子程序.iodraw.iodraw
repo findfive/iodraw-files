@@ -41,7 +41,7 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-6" value="取出当前站点队首指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="162.5" y="390" width="134" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-7" value="取出的指令目标是否&#xa;为当前站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-7" value="目标是当前站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170.25" y="450" width="119.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-8" value="输出PWM波控制舵机推料并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
