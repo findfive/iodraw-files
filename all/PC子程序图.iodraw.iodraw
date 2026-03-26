@@ -168,26 +168,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-77" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.25;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-70" target="-67SfyBbp6BAFBnuORJF-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="454" y="733.5" />
-              <mxPoint x="454" y="1347.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-78" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-70" target="-67SfyBbp6BAFBnuORJF-71">
           <mxGeometry x="-0.2766" y="7" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-80" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=1;entryY=1;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-72" target="-67SfyBbp6BAFBnuORJF-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="781" y="890.5" />
-              <mxPoint x="781" y="733.5" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-81" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-72" target="-67SfyBbp6BAFBnuORJF-73">
