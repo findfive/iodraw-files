@@ -18,11 +18,14 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-2" value="是否收到云端&#xa;MQTT指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="174.5" y="90" width="110" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-3" target="rbWVYp2GGXw5zbpGU6X0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-3" value="将目标站点编号&#xa;存入起始站点队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="165" y="213" width="129" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-4" value="某站点红外传感器&#xa;是否检测到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="172.5" y="280" width="117.5" height="120" as="geometry" />
+          <mxGeometry x="170.75" y="280" width="117.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-5" value="结束本轮处理" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="1411" width="119" height="34" as="geometry" />
