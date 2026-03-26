@@ -152,7 +152,7 @@
           <mxGeometry x="399.5" y="354" width="167" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-72" value="是否命中目标关键字&#xa;且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="639" y="926.5" width="257" height="257" as="geometry" />
+          <mxGeometry x="360" y="460" width="257" height="257" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-73" value="生成站点编号，发送MQTT指令并重置冷却时间戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="645" y="1255.5" width="245" height="66" as="geometry" />
@@ -177,13 +177,6 @@
           <mxGeometry x="-0.2766" y="7" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.03;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-71" target="-67SfyBbp6BAFBnuORJF-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="614" y="890.5" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-80" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=1;entryY=1;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-72" target="-67SfyBbp6BAFBnuORJF-70">
