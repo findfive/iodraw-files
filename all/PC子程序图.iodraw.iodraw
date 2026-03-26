@@ -137,7 +137,7 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-69" value="结束子程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="467" y="1372.5" width="103" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-70" value="是否有未遍历的旋转角度&#xa;(0°, 90°, 180°, 270°)?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-70" value="是否有未遍历的旋转角&#xa;度(0°, 90°, 180°, 270°)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="433.75" y="243" width="138.5" height="153" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-71" value="利用OpenCV旋转至当前角度并调用PaddleOCR提取特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
