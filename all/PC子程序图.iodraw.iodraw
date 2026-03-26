@@ -51,10 +51,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-8" value="调用PaddleOCR提取&#xa;文本特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="534" width="140.25" height="35" as="geometry" />
+          <mxGeometry x="61" y="505" width="140.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-9" value="是否命中目标关键字&#xa;且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="62" y="601" width="139" height="110" as="geometry" />
+          <mxGeometry x="62" y="563" width="139" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-11" value="调用MQTT发送&#xa;分拣调度指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63.25" y="814" width="134.5" height="40" as="geometry" />
