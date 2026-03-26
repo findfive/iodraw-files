@@ -128,8 +128,8 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-67" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="464" y="47.5" width="103" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-68" value="是否已达到识别冷却时间?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="131.5" width="231" height="231" as="geometry" />
+        <mxCell id="-67SfyBbp6BAFBnuORJF-68" value="是否到达&#xa;识别冷却时间?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450.5" y="124.5" width="130" height="118.5" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-69" value="结束子程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="467" y="1372.5" width="103" height="34" as="geometry" />
