@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="N1lJNZ6ws7coj-t5694a" name="第 1 页">
-    <mxGraphModel dx="1707" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
           <mxGeometry x="61" y="534" width="140.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-9" value="是否命中目标关键字且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="234" y="1107" width="258" height="258" as="geometry" />
+          <mxGeometry x="15" y="630" width="258" height="258" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-10" value="生成对应的目标站点编号 (Station ID)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="245" y="1438" width="236" height="66" as="geometry" />
@@ -78,13 +78,6 @@
           <mxGeometry x="-0.0526" y="9" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-8" target="-67SfyBbp6BAFBnuORJF-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="254" y="1071" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-21" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0.95;entryY=1;rounded=0;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-9" target="-67SfyBbp6BAFBnuORJF-6">
