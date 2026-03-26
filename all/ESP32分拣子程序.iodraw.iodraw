@@ -21,7 +21,7 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-3" target="rbWVYp2GGXw5zbpGU6X0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rbWVYp2GGXw5zbpGU6X0-3" value="将目标站点编号&#xa;存入起始站点队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-3" value="将目标存入起始站点队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="163" y="215" width="134" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-4" target="rbWVYp2GGXw5zbpGU6X0-6">
