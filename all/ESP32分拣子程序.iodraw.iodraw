@@ -151,7 +151,7 @@
           <mxGeometry x="1070" y="560" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-64" value="把标志位&#xa;恢复为就绪状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="995" y="450" width="150" height="40" as="geometry" />
+          <mxGeometry x="1150" y="395" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-58" target="rbWVYp2GGXw5zbpGU6X0-59">
           <mxGeometry relative="1" as="geometry">
