@@ -18,8 +18,8 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-3" value="是否到达&#xa;识别冷却时间" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="69" y="118" width="123" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-4" value="退出子程序, 返回主循环" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="63.25" y="950" width="194" height="34" as="geometry" />
+        <mxCell id="-67SfyBbp6BAFBnuORJF-4" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="63.25" y="950" width="136.75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-5" value="加载旋转角度数组 &#xa;(0°, 90°, 180°, 270°)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60.5" y="250" width="140" height="40" as="geometry" />
@@ -44,6 +44,9 @@
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-11" value="调用MQTT发送&#xa;分拣调度指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63.25" y="814" width="134.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-67SfyBbp6BAFBnuORJF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-67SfyBbp6BAFBnuORJF-12" target="-67SfyBbp6BAFBnuORJF-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-12" value="重置时间&#39;戳" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63.38" y="884" width="135.5" height="40" as="geometry" />
