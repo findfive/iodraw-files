@@ -36,7 +36,7 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-8" value="调用PaddleOCR提取&#xa;文本特征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="61" y="534" width="140.25" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-9" value="是否命中目标关键字且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-9" value="是否命中目标关键字&#xa;且置信度 &gt; 0.6?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="61" y="620" width="145" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-10" value="生成对应的目标站点编号 (Station ID)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
