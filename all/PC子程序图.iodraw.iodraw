@@ -7,7 +7,7 @@
         <mxCell id="-67SfyBbp6BAFBnuORJF-2" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="40" width="167" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="-67SfyBbp6BAFBnuORJF-3" value="是否到达识别冷却" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-67SfyBbp6BAFBnuORJF-3" value="是否到达&#xa;识别冷却时间" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="110" width="167.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-67SfyBbp6BAFBnuORJF-4" value="退出子程序, 返回主循环" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
