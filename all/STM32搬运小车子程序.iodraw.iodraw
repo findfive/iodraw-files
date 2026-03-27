@@ -249,7 +249,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-133" value="是否处于&#xa;准备卸货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="614.25" y="1360" width="119.12" height="74" as="geometry" />
+          <mxGeometry x="618.25" y="1360" width="119.12" height="74" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-134" value="控制卸货舵机动作完成抛料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="2546" width="252" height="49" as="geometry" />
@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-136" value="是否处于&#xa;返航途中状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="615.93" y="1460" width="115.75" height="90" as="geometry" />
+          <mxGeometry x="619.93" y="1460" width="115.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-137" target="bGFBzZ98n7kuPYqdsXaf-138">
           <mxGeometry relative="1" as="geometry" />
