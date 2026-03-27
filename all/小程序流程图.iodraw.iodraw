@@ -30,14 +30,17 @@
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-5" value="解析数据并更新界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="190.25" y="363" width="129" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2gXGcDm5YBr-1a0l2rWL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2gXGcDm5YBr-1a0l2rWL-6" target="2gXGcDm5YBr-1a0l2rWL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-6" value="是否输入新关键&#xa;字并点击修改?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="189.5" y="438" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-7" value="结束本轮操作" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="193" y="1278" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2gXGcDm5YBr-1a0l2rWL-8" value="将关键字按固定格式拼接成一条字符串" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="184.13" y="564" width="141.25" height="40" as="geometry" />
+        <mxCell id="2gXGcDm5YBr-1a0l2rWL-8" value="将关键字按固定格式&#xa;拼接成一条字符串" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="184.13" y="550" width="141.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-9" value="向巴法云发送数据完成在线动态修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="207" y="1162" width="252" height="66" as="geometry" />
