@@ -252,7 +252,7 @@
           <mxGeometry x="618.25" y="1360" width="119.12" height="74" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-134" value="控制卸货舵机动作完成抛料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1890" width="130" height="30" as="geometry" />
+          <mxGeometry x="480" y="1820" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-135" value="状态切换为自动返航" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="2123" width="204" height="49" as="geometry" />
