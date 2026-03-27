@@ -240,14 +240,6 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-132" value="结束本轮判定" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="2060" width="119" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-133" target="bGFBzZ98n7kuPYqdsXaf-136">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-162" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGFBzZ98n7kuPYqdsXaf-161">
-          <mxGeometry x="-0.3388" y="1" relative="1" as="geometry">
-            <mxPoint x="15" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-133" value="是否处于&#xa;准备卸货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="618.25" y="1360" width="119.12" height="74" as="geometry" />
         </mxCell>
@@ -266,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-136" value="是否处于&#xa;返航途中状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1470" width="115.75" height="70" as="geometry" />
+          <mxGeometry x="619" y="1470" width="115.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-137" target="bGFBzZ98n7kuPYqdsXaf-138">
           <mxGeometry relative="1" as="geometry" />
