@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="DA9-pGOxFNMcqPxyw4HM" name="第 1 页">
-    <mxGraphModel dx="3467" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2640" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,25 +99,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-54" value="开始循迹子程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="87" y="920" width="135" height="34" as="geometry" />
+          <mxGeometry x="481" y="20" width="135" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-55" value="读取灰度传感器并执行PID循迹控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="1004" width="259" height="66" as="geometry" />
+          <mxGeometry x="419" y="104" width="259" height="66" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-56" value="是否检测到黑线十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="39" y="1120" width="231" height="231" as="geometry" />
+          <mxGeometry x="433" y="220" width="231" height="231" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-57" value="结束本轮控制" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="93" y="1924" width="119" height="34" as="geometry" />
+          <mxGeometry x="487" y="1024" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-58" value="路口计数器加 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="169" y="1423" width="169" height="49" as="geometry" />
+          <mxGeometry x="563" y="523" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-59" value="计数值是否等于目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="138" y="1522" width="231" height="231" as="geometry" />
+          <mxGeometry x="532" y="622" width="231" height="231" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-60" value="关闭电机，小车停车制动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1826" width="236" height="49" as="geometry" />
+          <mxGeometry x="629" y="926" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-54" target="bGFBzZ98n7kuPYqdsXaf-55">
           <mxGeometry relative="1" as="geometry">
@@ -132,15 +132,15 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-63" value="N (继续行驶)" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.06;entryY=0.01;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-56" target="bGFBzZ98n7kuPYqdsXaf-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" y="1387" />
-              <mxPoint x="20" y="1899" />
+              <mxPoint x="414" y="487" />
+              <mxPoint x="414" y="999" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-64" value="Y (到达路口)" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-56" target="bGFBzZ98n7kuPYqdsXaf-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="253" y="1387" />
+              <mxPoint x="647" y="487" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -152,21 +152,21 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-66" value="N (未到终点)" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-59" target="bGFBzZ98n7kuPYqdsXaf-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="153" y="1789" />
+              <mxPoint x="547" y="889" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-67" value="Y (到达终点)" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-59" target="bGFBzZ98n7kuPYqdsXaf-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="353" y="1789" />
+              <mxPoint x="747" y="889" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1.01;entryY=0.14;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-60" target="bGFBzZ98n7kuPYqdsXaf-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="353" y="1899" />
+              <mxPoint x="747" y="999" />
             </Array>
           </mxGeometry>
         </mxCell>
