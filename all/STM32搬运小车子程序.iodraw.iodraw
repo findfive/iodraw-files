@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="DA9-pGOxFNMcqPxyw4HM" name="第 1 页">
-    <mxGraphModel dx="1001" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="334" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,7 +261,7 @@
           <mxGeometry x="615.93" y="1460" width="115.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-137" value="是否已经循迹回到起点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="928" y="2156" width="215" height="215" as="geometry" />
+          <mxGeometry x="610" y="1640" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-138" value="任务缓存区是否有新派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1001" y="2455" width="231" height="231" as="geometry" />
@@ -330,13 +330,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="2110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-152" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-136" target="bGFBzZ98n7kuPYqdsXaf-137">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1036" y="2120" />
             </Array>
           </mxGeometry>
         </mxCell>
