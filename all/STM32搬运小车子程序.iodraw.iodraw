@@ -218,7 +218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-128" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="1210" width="110" height="34" as="geometry" />
+          <mxGeometry x="622.5" y="1216" width="110" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-129" target="bGFBzZ98n7kuPYqdsXaf-133">
           <mxGeometry relative="1" as="geometry" />
@@ -277,7 +277,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-137" value="是否已经&#xa;回到起点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="621.75" y="1580" width="111.5" height="90" as="geometry" />
+          <mxGeometry x="621.75" y="1575" width="111.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-138" target="bGFBzZ98n7kuPYqdsXaf-139">
           <mxGeometry relative="1" as="geometry" />
