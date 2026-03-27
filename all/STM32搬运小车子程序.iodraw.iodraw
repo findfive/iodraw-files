@@ -261,7 +261,7 @@
           <mxGeometry x="615.93" y="1460" width="115.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-137" value="是否已经&#xa;回到起点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="623.37" y="1570" width="110" height="120" as="geometry" />
+          <mxGeometry x="618.5" y="1570" width="106.63" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-138" value="任务缓存区是否有新派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1001" y="2455" width="231" height="231" as="geometry" />
