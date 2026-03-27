@@ -122,7 +122,7 @@
           <mxGeometry x="477.5" y="244" width="142.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-59" value="计数值是否&#xa;等于目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="433.25" y="319" width="186.75" height="91" as="geometry" />
+          <mxGeometry x="467.68" y="310" width="162.13" height="91" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-60" value="关闭电机，小车停车制动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="629" y="926" width="236" height="49" as="geometry" />
