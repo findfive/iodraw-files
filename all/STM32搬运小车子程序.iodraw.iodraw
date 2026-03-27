@@ -238,7 +238,7 @@
           <mxGeometry x="163" y="2779" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-132" value="结束本轮判定" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="664" y="2886" width="119" height="34" as="geometry" />
+          <mxGeometry x="622.5" y="2060" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-133" target="bGFBzZ98n7kuPYqdsXaf-136">
           <mxGeometry relative="1" as="geometry" />
@@ -312,21 +312,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="273" y="2734" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-144" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-130" target="bGFBzZ98n7kuPYqdsXaf-132">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="121" y="2734" />
-              <mxPoint x="121" y="2861" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-131" target="bGFBzZ98n7kuPYqdsXaf-132">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="273" y="2861" />
             </Array>
           </mxGeometry>
         </mxCell>
