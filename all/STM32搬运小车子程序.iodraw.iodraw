@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="DA9-pGOxFNMcqPxyw4HM" name="第 1 页">
-    <mxGraphModel dx="745" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="618" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,6 +104,14 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-55" value="读取灰度传感器&#xa;并执行PID循迹控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="80" width="142" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-56" target="bGFBzZ98n7kuPYqdsXaf-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-70" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGFBzZ98n7kuPYqdsXaf-69">
+          <mxGeometry x="-0.1404" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-56" value="是否检测到&#xa;黑线十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="138" width="117" height="82" as="geometry" />
         </mxCell>
@@ -111,7 +119,7 @@
           <mxGeometry x="487" y="1024" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-58" value="路口计数器加 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="563" y="523" width="169" height="49" as="geometry" />
+          <mxGeometry x="464" y="260" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-59" value="计数值是否等于目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="532" y="622" width="231" height="231" as="geometry" />
@@ -134,13 +142,6 @@
             <Array as="points">
               <mxPoint x="414" y="487" />
               <mxPoint x="414" y="999" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-64" value="Y (到达路口)" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-56" target="bGFBzZ98n7kuPYqdsXaf-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="647" y="487" />
             </Array>
           </mxGeometry>
         </mxCell>
