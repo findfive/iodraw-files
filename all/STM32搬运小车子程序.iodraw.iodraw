@@ -249,8 +249,8 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-135" value="状态切换为自动返航" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="453" y="2779" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-136" value="是否处于返航途中状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="566" y="1460" width="215" height="215" as="geometry" />
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-136" value="是否处于&#xa;返航途中状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="621.81" y="1460" width="98.19" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-137" value="是否已经循迹回到起点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="928" y="2156" width="215" height="215" as="geometry" />
