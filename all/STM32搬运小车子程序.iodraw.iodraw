@@ -282,6 +282,11 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-138" target="bGFBzZ98n7kuPYqdsXaf-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-169" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGFBzZ98n7kuPYqdsXaf-167">
+          <mxGeometry x="-0.3085" y="1" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-138" value="任务缓存区&#xa;是否有新派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="617.37" y="1696" width="112.25" height="90" as="geometry" />
         </mxCell>
