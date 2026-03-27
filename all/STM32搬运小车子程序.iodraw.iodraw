@@ -257,11 +257,14 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-135" value="状态切换为自动返航" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="453" y="2779" width="204" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-136" target="bGFBzZ98n7kuPYqdsXaf-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-136" value="是否处于&#xa;返航途中状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="615.93" y="1460" width="115.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-137" value="是否已经&#xa;回到起点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="618.5" y="1570" width="106.63" height="70" as="geometry" />
+          <mxGeometry x="617.75" y="1580" width="111.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-138" value="任务缓存区是否有新派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1001" y="2455" width="231" height="231" as="geometry" />
