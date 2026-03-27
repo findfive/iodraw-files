@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-135" value="状态切换为自动返航" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328.65" y="404.5" width="126.66" height="49" as="geometry" />
+          <mxGeometry x="330" y="404.5" width="126.66" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-136" target="bGFBzZ98n7kuPYqdsXaf-137">
           <mxGeometry relative="1" as="geometry" />
