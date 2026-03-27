@@ -250,7 +250,7 @@
           <mxGeometry x="453" y="2779" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-136" value="是否处于&#xa;返航途中状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="620.31" y="1450" width="109.69" height="90" as="geometry" />
+          <mxGeometry x="615.93" y="1470" width="115.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-137" value="是否已经循迹回到起点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="928" y="2156" width="215" height="215" as="geometry" />
