@@ -7,7 +7,7 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-54" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="481" y="30" width="135" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-55" value="读取灰度传感器&#xa;并执行PID循迹控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-55" value="读取红外循迹传感器&#xa;并执行PID循迹控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="82" width="142" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-56" target="bGFBzZ98n7kuPYqdsXaf-58">
