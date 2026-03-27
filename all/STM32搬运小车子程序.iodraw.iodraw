@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="DA9-pGOxFNMcqPxyw4HM" name="第 1 页">
-    <mxGraphModel dx="1708" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,9 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-5" value="执行PID运算动态调节左右轮转速" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="19" y="370" width="259" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-6" target="bGFBzZ98n7kuPYqdsXaf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-6" value="是否检测到&#xa;黑线十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="89.75" y="460" width="117.5" height="101" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
           <mxGeometry x="89" y="1461" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-8" value="路口计数器加1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="146" y="960" width="164" height="49" as="geometry" />
+          <mxGeometry x="60" y="585" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-9" value="计数值是否等于目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="113" y="1059" width="231" height="231" as="geometry" />
@@ -74,13 +77,6 @@
             <Array as="points">
               <mxPoint x="56" y="924" />
               <mxPoint x="56" y="1436" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-18" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-6" target="bGFBzZ98n7kuPYqdsXaf-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="228" y="924" />
             </Array>
           </mxGeometry>
         </mxCell>
