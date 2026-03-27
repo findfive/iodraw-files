@@ -121,11 +121,19 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-58" value="路口计数器加 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="244" width="142.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-59" target="bGFBzZ98n7kuPYqdsXaf-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGFBzZ98n7kuPYqdsXaf-72">
+          <mxGeometry x="-0.1734" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-59" value="计数值是否&#xa;等于目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490.04999999999995" y="310" width="117.41" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-60" value="关闭电机，小车停车制动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="289" width="142.5" height="40" as="geometry" />
+          <mxGeometry x="477.25" y="430" width="142.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-54" target="bGFBzZ98n7kuPYqdsXaf-55">
           <mxGeometry relative="1" as="geometry">
