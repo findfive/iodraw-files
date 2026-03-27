@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="DA9-pGOxFNMcqPxyw4HM" name="第 1 页">
-    <mxGraphModel dx="558" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-24" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGFBzZ98n7kuPYqdsXaf-23">
           <mxGeometry x="-0.2806" y="-1" relative="1" as="geometry">
-            <mxPoint x="21" y="-6" as="offset" />
+            <mxPoint x="11" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-2" value="收到新派单指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
           <mxGeometry x="30.5" y="180" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-4" value="读取8路灰度传感器状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="35" y="442" width="228" height="49" as="geometry" />
+          <mxGeometry x="35.5" y="280" width="228" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-5" value="执行PID运算动态调节左右轮转速" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="541" width="259" height="66" as="geometry" />
