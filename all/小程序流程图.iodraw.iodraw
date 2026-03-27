@@ -29,7 +29,7 @@
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-3" value="获取数据是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="191.38" y="246" width="126.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2gXGcDm5YBr-1a0l2rWL-4" value="界面直接显示为 空 或跳过报错" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2gXGcDm5YBr-1a0l2rWL-4" value="界面直接显示为&quot;空&quot;&#xa;或跳过报错" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="362" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2gXGcDm5YBr-1a0l2rWL-5" target="2gXGcDm5YBr-1a0l2rWL-6">
