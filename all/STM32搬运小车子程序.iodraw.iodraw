@@ -231,7 +231,7 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-129" value="是否处于&#xa;等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="618.25" y="1270" width="118.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-130" value="光电传感器连续&#xa;500ms检测到货物?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-130" value="传感器连续&#xa;检测到货物?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="1400" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-131" value="状态切换为前往卸货点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
