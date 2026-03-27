@@ -277,7 +277,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-137" value="是否已经&#xa;回到起点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="1570" width="111.5" height="70" as="geometry" />
+          <mxGeometry x="621.6" y="1560" width="111.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-138" target="bGFBzZ98n7kuPYqdsXaf-139">
           <mxGeometry relative="1" as="geometry" />
@@ -288,7 +288,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-138" value="任务缓存区&#xa;是否有新派单?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="625.87" y="1670" width="112.25" height="79" as="geometry" />
+          <mxGeometry x="622.5" y="1660" width="112.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-139" value="不停车，状态切换&#xa;为前往新取货点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="614.69" y="1809" width="125.31" height="50" as="geometry" />
