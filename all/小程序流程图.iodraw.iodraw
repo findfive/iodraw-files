@@ -16,7 +16,7 @@
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-4" value="界面直接显示为 空 或跳过报错" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="575" width="193" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="2gXGcDm5YBr-1a0l2rWL-5" value="解析数据并更新界面目标关键字" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2gXGcDm5YBr-1a0l2rWL-5" value="解析数据并更新界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194.26" y="370" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-6" value="用户是否输入新关键字并点击修改?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
