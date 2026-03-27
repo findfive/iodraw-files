@@ -28,7 +28,7 @@
           <mxGeometry x="190.25" y="363" width="129" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-6" value="用户是否输入新关键字并点击修改?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="123" y="692" width="258" height="258" as="geometry" />
+          <mxGeometry x="123.5" y="430" width="258" height="258" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-7" value="结束本轮操作" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="193" y="1278" width="119" height="34" as="geometry" />
@@ -53,13 +53,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="116" y="667" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2gXGcDm5YBr-1a0l2rWL-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.94;entryY=0;rounded=0;" edge="1" parent="1" source="2gXGcDm5YBr-1a0l2rWL-5" target="2gXGcDm5YBr-1a0l2rWL-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="389" y="667" />
             </Array>
           </mxGeometry>
         </mxCell>
