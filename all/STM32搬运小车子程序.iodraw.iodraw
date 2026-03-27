@@ -255,7 +255,7 @@
           <mxGeometry x="453.34000000000003" y="1870" width="125.31" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-135" value="状态切换为自动返航" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414.25" y="1960" width="125.75" height="40" as="geometry" />
+          <mxGeometry x="453.34" y="1950" width="126.66" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-136" target="bGFBzZ98n7kuPYqdsXaf-137">
           <mxGeometry relative="1" as="geometry" />
