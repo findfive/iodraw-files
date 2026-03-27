@@ -235,7 +235,7 @@
           <mxGeometry x="461.98999999999995" y="1460" width="116.66" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-131" value="状态切换为前往卸货点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1570.5" width="220" height="49" as="geometry" />
+          <mxGeometry x="359.33000000000004" y="1601" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-132" value="结束本轮判定" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="2060" width="119" height="34" as="geometry" />
@@ -299,13 +299,6 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-128" target="bGFBzZ98n7kuPYqdsXaf-129">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-143" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-130" target="bGFBzZ98n7kuPYqdsXaf-131">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="273" y="2734" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bGFBzZ98n7kuPYqdsXaf-134" target="bGFBzZ98n7kuPYqdsXaf-135">
