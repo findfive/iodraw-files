@@ -220,8 +220,8 @@
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-128" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="646" y="1210" width="55" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="bGFBzZ98n7kuPYqdsXaf-129" value="是否处于等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="566" y="1294" width="215" height="215" as="geometry" />
+        <mxCell id="bGFBzZ98n7kuPYqdsXaf-129" value="是否处于&#xa;等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="614.25" y="1270" width="118.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-130" value="光电传感器连续500ms&#xa;检测到货物?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="2444" width="254" height="254" as="geometry" />
