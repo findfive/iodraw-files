@@ -10,6 +10,9 @@
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-2" value="向巴法云发送请求&#xa;拉取最新数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="189.5" y="177" width="130.5" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="2gXGcDm5YBr-1a0l2rWL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2gXGcDm5YBr-1a0l2rWL-3" target="2gXGcDm5YBr-1a0l2rWL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-3" value="获取数据是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="191.38" y="246" width="126.75" height="90" as="geometry" />
         </mxCell>
@@ -17,7 +20,7 @@
           <mxGeometry x="20" y="575" width="193" height="66" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-5" value="解析数据并更新界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="191.38" y="360" width="129" height="50" as="geometry" />
+          <mxGeometry x="190.25" y="370" width="129" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-6" value="用户是否输入新关键字并点击修改?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="123" y="692" width="258" height="258" as="geometry" />
