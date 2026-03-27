@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-131" value="状态切换为前往卸货点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="607.71" y="294" width="123.25" height="49" as="geometry" />
+          <mxGeometry x="604.4100000000001" y="304.5" width="123.25" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-132" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="468.37" y="664" width="119" height="34" as="geometry" />
