@@ -8,10 +8,10 @@
           <mxGeometry x="189.5" y="120" width="130.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-2" value="向巴法云发送请求&#xa;拉取最新数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="189.5" y="180" width="130.5" height="46" as="geometry" />
+          <mxGeometry x="189.5" y="177" width="130.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-3" value="获取数据是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="191.38" y="270" width="126.75" height="90" as="geometry" />
+          <mxGeometry x="191.38" y="246" width="126.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-4" value="界面直接显示为 空 或跳过报错" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="575" width="193" height="66" as="geometry" />
