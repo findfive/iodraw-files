@@ -48,10 +48,10 @@
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="630" as="targetPoint" />
+            <mxPoint x="320" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="325" />
-              <mxPoint x="410" y="630" />
+              <mxPoint x="410" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-8" value="控制舵机推料并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="80" y="569" width="136.5" height="40" as="geometry" />
+          <mxGeometry x="80" y="561" width="136.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9SXn5tDpuZsANCFg-HxI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-9" target="rbWVYp2GGXw5zbpGU6X0-5">
           <mxGeometry relative="1" as="geometry" />
