@@ -97,13 +97,13 @@
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-7" value="目标是当前站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="170.25" y="450" width="119.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9SXn5tDpuZsANCFg-HxI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-8" target="rbWVYp2GGXw5zbpGU6X0-5">
+        <mxCell id="9SXn5tDpuZsANCFg-HxI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-8" target="rbWVYp2GGXw5zbpGU6X0-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-8" value="控制舵机推料并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="80" y="561" width="136.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9SXn5tDpuZsANCFg-HxI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbWVYp2GGXw5zbpGU6X0-9" target="rbWVYp2GGXw5zbpGU6X0-5">
+        <mxCell id="9SXn5tDpuZsANCFg-HxI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-9" target="rbWVYp2GGXw5zbpGU6X0-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-9" value="不推料，存入下一站缓存队列" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
