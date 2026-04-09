@@ -48,10 +48,10 @@
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="640" as="targetPoint" />
+            <mxPoint x="320" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="325" />
-              <mxPoint x="410" y="640" />
+              <mxPoint x="410" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -64,7 +64,7 @@
           <mxGeometry x="170.75" y="280" width="119.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-5" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="174.5" y="680" width="119" height="34" as="geometry" />
+          <mxGeometry x="174.5" y="660" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-6" value="取出当前站点队首指令" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="162.5" y="390" width="134" height="40" as="geometry" />
