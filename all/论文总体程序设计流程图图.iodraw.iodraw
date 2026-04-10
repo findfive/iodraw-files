@@ -220,8 +220,9 @@
             <mxPoint x="3510.4844999999996" y="5579.30193" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3588" y="5376" />
-              <mxPoint x="3588" y="5580" />
-              <mxPoint x="3511" y="5580" />
+              <mxPoint x="3588" y="5590" />
+              <mxPoint x="3499" y="5590" />
+              <mxPoint x="3499" y="5579" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -268,7 +269,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-284" value="RTOS任务延时&#xa;释放CPU控制权" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3328.49" y="5605" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="3328.49" y="5617" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-285" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-272" target="KaNf-R4lzkF0VlSjohUQ-273" edge="1">
           <mxGeometry relative="1" as="geometry">
