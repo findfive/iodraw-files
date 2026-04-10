@@ -243,7 +243,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-282" value="锁定该站传感器&#xa;(防止重复触发)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3192.9799999999996" y="5520.72" width="139.51" height="40" as="geometry" />
+          <mxGeometry x="3192.9799999999996" y="5519.72" width="139.51" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wX-sdQAfhvEB8a2V_8IX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-283" target="KaNf-R4lzkF0VlSjohUQ-284">
           <mxGeometry relative="1" as="geometry" />
@@ -280,9 +280,6 @@
           <mxGeometry x="-0.4882" y="-1" relative="1" as="geometry">
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-345" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="3242.99" y="5431.25" width="35" height="140" as="geometry" />
         </mxCell>
         <mxCell id="r9Gf-F6kDUteEOy_p3Q7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-453" target="KaNf-R4lzkF0VlSjohUQ-454" edge="1">
           <mxGeometry relative="1" as="geometry" />
