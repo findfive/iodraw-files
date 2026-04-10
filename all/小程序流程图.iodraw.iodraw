@@ -29,6 +29,9 @@
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-3" value="获取数据是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="191.38" y="246" width="126.75" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="9nssAH9jDb_pDhtPiuuF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2gXGcDm5YBr-1a0l2rWL-4" target="2gXGcDm5YBr-1a0l2rWL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-4" value="界面直接显示为&quot;空&quot;&#xa;或跳过报错" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="362" width="130" height="49" as="geometry" />
         </mxCell>
@@ -88,18 +91,6 @@
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="2gXGcDm5YBr-1a0l2rWL-8" target="2gXGcDm5YBr-1a0l2rWL-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2gXGcDm5YBr-1a0l2rWL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.515;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2gXGcDm5YBr-1a0l2rWL-4" target="2gXGcDm5YBr-1a0l2rWL-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="95" y="491" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9nssAH9jDb_pDhtPiuuF-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2gXGcDm5YBr-1a0l2rWL-51">
-          <mxGeometry x="0.9287" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
