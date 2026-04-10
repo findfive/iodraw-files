@@ -165,6 +165,332 @@
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-349" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="3364.75" y="5456.75" width="39.49" height="248.5" as="geometry" />
         </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-74" target="NyIrZ-23-f0E3kvcaEpa-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-74" value="PC端程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4296.62" y="4920" width="149.38" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-76" target="NyIrZ-23-f0E3kvcaEpa-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-76" value="初始化相机与PaddleOCR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4295.99" y="4974" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-78" target="NyIrZ-23-f0E3kvcaEpa-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-78" value="读取一帧图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4296" y="5034" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-83" target="NyIrZ-23-f0E3kvcaEpa-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-80" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-79">
+          <mxGeometry x="0.1489" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-83" target="NyIrZ-23-f0E3kvcaEpa-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4310" y="5712" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4220" y="5135" />
+              <mxPoint x="4220" y="5584" />
+              <mxPoint x="4310" y="5584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-82" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-81">
+          <mxGeometry x="-0.878" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-83" value="读取是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4303.75" y="5095" width="134.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-84" value="结束程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4327.49" y="5565" width="87" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-89" target="NyIrZ-23-f0E3kvcaEpa-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-86" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-85">
+          <mxGeometry x="-0.1171" y="1" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4370" y="5494" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4250" y="5242" />
+              <mxPoint x="4250" y="5494" />
+              <mxPoint x="4311" y="5494" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-88" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-87">
+          <mxGeometry x="-0.8579" relative="1" as="geometry">
+            <mxPoint x="3" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-89" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4299.87" y="5204" width="142.25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-91" target="NyIrZ-23-f0E3kvcaEpa-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4510" y="5055" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4480" y="5529" />
+              <mxPoint x="4480" y="5054" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-91" value="更新本地UI视频画面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4310.74" y="5509" width="120.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-96" target="NyIrZ-23-f0E3kvcaEpa-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-93" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-92">
+          <mxGeometry x="-0.0875" y="1" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4250" y="5355" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4277" y="5355" />
+              <mxPoint x="4250" y="5355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-95" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-94">
+          <mxGeometry x="-0.0532" y="-2" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-96" value="是否匹配到&#xa;目标关键字?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4302.37" y="5307" width="137.25" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-98" target="NyIrZ-23-f0E3kvcaEpa-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-98" value="MQTT发布分拣指令&#xa;并重置冷却时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4311" y="5433" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-100" target="NyIrZ-23-f0E3kvcaEpa-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-100" value="STM32小车程序开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3845.62" y="4868" width="148.24" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-102" target="NyIrZ-23-f0E3kvcaEpa-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-102" value="初始化外设与PID控制参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3845.62" y="4926" width="148.24" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-104" target="NyIrZ-23-f0E3kvcaEpa-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-104" value="进入底层 FSM 轮询主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3845.63" y="4980.5" width="148.24" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-109" target="NyIrZ-23-f0E3kvcaEpa-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-106" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-105">
+          <mxGeometry x="-0.1386" y="-2" relative="1" as="geometry">
+            <mxPoint x="11" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3920" y="5200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3831" y="5081" />
+              <mxPoint x="3831" y="5200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-108" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-107">
+          <mxGeometry x="-0.4865" relative="1" as="geometry">
+            <mxPoint x="10" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-109" value="串口是否收到&#xa;ESP32派单指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3851.49" y="5042" width="136.5" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-111" target="NyIrZ-23-f0E3kvcaEpa-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-111" value="解析目标并判断是否&#xa;缓存为下一次任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3851.99" y="5144" width="135.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-116" target="NyIrZ-23-f0E3kvcaEpa-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3826.24" y="5325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3839" y="5248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-113" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-112">
+          <mxGeometry x="0.0391" y="1" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-116" target="NyIrZ-23-f0E3kvcaEpa-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4000" y="5248" />
+              <mxPoint x="4000" y="5292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-115" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-114">
+          <mxGeometry x="-0.0672" y="1" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-116" value="状态机是否处于&#xa;运动状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3851.37" y="5213" width="136.13" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-119" target="NyIrZ-23-f0E3kvcaEpa-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-118" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-117">
+          <mxGeometry x="-0.3665" y="-1" relative="1" as="geometry">
+            <mxPoint x="14" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-119" value="红外循迹传感器&#xa;是否检测到黑色&#xa;十字路口?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="5288" width="137.02" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-124" target="NyIrZ-23-f0E3kvcaEpa-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-121" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-120">
+          <mxGeometry x="-0.2703" y="1" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3880" y="5590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4106" y="5340" />
+              <mxPoint x="4106" y="5590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-123" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-122">
+          <mxGeometry x="-0.7047" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-124" value="状态机是否处于&#xa;等待装货状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3934.99" y="5292.5" width="129.51" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3870" y="5590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3740" y="5590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-126" value="计算串级PID偏差并&#xa;更新左右轮PWM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3682" y="5523" width="115.75" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-131" target="NyIrZ-23-f0E3kvcaEpa-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3907" y="5454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-128" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-127">
+          <mxGeometry x="-0.1519" y="2" relative="1" as="geometry">
+            <mxPoint x="9" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3740" y="5454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-130" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-129">
+          <mxGeometry x="-0.0977" y="-1" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-131" value="路口计数累加是否&#xa;达到目标站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3776.25" y="5409" width="124.53" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-133" target="NyIrZ-23-f0E3kvcaEpa-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-133" value="停车执行卸货动作并&#xa;切换全局状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3821.25" y="5523" width="111.51" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-135" target="NyIrZ-23-f0E3kvcaEpa-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4076.24" y="4995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3880" y="5660" />
+              <mxPoint x="4150" y="5660" />
+              <mxPoint x="4150" y="4999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-135" value="底层任务时钟延时&#xa;与看门狗喂狗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3806.7400000000007" y="5606" width="140.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-140" target="NyIrZ-23-f0E3kvcaEpa-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-137" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-136">
+          <mxGeometry x="-0.2849" relative="1" as="geometry">
+            <mxPoint x="8" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4100" y="5453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-139" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-138">
+          <mxGeometry x="-0.3833" relative="1" as="geometry">
+            <mxPoint x="4" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-140" value="光电传感器是否&#xa;持续检测到货物?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3934.5" y="5414" width="130" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3999.505" y="5590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-142" value="确认装货完成&#xa;切换状态为前往卸货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3943.75" y="5523" width="111.51" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.475;entryY=-0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NyIrZ-23-f0E3kvcaEpa-119" target="NyIrZ-23-f0E3kvcaEpa-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3737" y="5338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NyIrZ-23-f0E3kvcaEpa-144" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NyIrZ-23-f0E3kvcaEpa-143">
+          <mxGeometry x="-0.7802" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
