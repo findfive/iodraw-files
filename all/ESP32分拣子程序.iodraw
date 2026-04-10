@@ -1,9 +1,124 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="oQXW5FM4CnRb433FA5_1" name="第 1 页">
-    <mxGraphModel dx="2204" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2693" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="169" y="34" width="121" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-2" target="rbWVYp2GGXw5zbpGU6X0-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-22" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rbWVYp2GGXw5zbpGU6X0-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.2784" y="1" relative="1" as="geometry">
+            <mxPoint x="16" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-2" target="rbWVYp2GGXw5zbpGU6X0-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="140" />
+              <mxPoint x="140" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-49" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rbWVYp2GGXw5zbpGU6X0-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.8471" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-2" value="收到MQTT指令?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="174.5" y="90" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-3" target="rbWVYp2GGXw5zbpGU6X0-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-3" value="将目标存入&#xa;起始站点队列" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="163" y="215" width="134" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-4" target="rbWVYp2GGXw5zbpGU6X0-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-25" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rbWVYp2GGXw5zbpGU6X0-24" vertex="1" connectable="0">
+          <mxGeometry x="-0.1198" relative="1" as="geometry">
+            <mxPoint x="20" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="325" />
+              <mxPoint x="410" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-51" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rbWVYp2GGXw5zbpGU6X0-50" vertex="1" connectable="0">
+          <mxGeometry x="-0.827" y="-1" relative="1" as="geometry">
+            <mxPoint y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-4" value="传感器检测&#xa;到包裹?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="170.75" y="280" width="119.25" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-5" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="174.5" y="660" width="119" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-6" value="取出当前站点队首指令" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="162.5" y="390" width="134" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-7" target="rbWVYp2GGXw5zbpGU6X0-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-53" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rbWVYp2GGXw5zbpGU6X0-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.6582" y="1" relative="1" as="geometry">
+            <mxPoint y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-7" target="rbWVYp2GGXw5zbpGU6X0-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="318" y="500" />
+              <mxPoint x="318" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-55" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rbWVYp2GGXw5zbpGU6X0-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.7825" y="-1" relative="1" as="geometry">
+            <mxPoint y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-7" value="目标是当前站点?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="170.25" y="450" width="119.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9SXn5tDpuZsANCFg-HxI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-8" target="rbWVYp2GGXw5zbpGU6X0-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-8" value="控制舵机推料并呼叫小车" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="80" y="561" width="136.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9SXn5tDpuZsANCFg-HxI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-9" target="rbWVYp2GGXw5zbpGU6X0-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-9" value="不推料，存入下一站缓存队列" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="250" y="561" width="136.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-1" target="rbWVYp2GGXw5zbpGU6X0-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rbWVYp2GGXw5zbpGU6X0-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-6" target="rbWVYp2GGXw5zbpGU6X0-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-58" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="637.63" y="34" width="122.75" height="34" as="geometry" />
         </mxCell>
