@@ -198,7 +198,7 @@
           <mxGeometry x="100.43" y="489" width="142.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-234" value="路口计数器加 1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="100.43" y="260" width="109.57" height="40" as="geometry" />
+          <mxGeometry x="116.90000000000002" y="264.5" width="109.57" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bGFBzZ98n7kuPYqdsXaf-239" edge="1">
           <mxGeometry relative="1" as="geometry">
