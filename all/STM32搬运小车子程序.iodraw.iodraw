@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-128" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="500" y="50" width="80" height="34" as="geometry" />
+          <mxGeometry x="494.55" y="48" width="70.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bGFBzZ98n7kuPYqdsXaf-129" target="bGFBzZ98n7kuPYqdsXaf-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-226" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="135.76" y="48" width="71.35" height="34" as="geometry" />
+          <mxGeometry x="139.57" y="48" width="64.24" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bGFBzZ98n7kuPYqdsXaf-227" value="读取红外循迹传感器&#xa;并执行PID循迹控制" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100.43" y="101" width="142" height="40" as="geometry" />
