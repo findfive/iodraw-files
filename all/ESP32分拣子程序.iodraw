@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-58" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="637.63" y="34" width="122.75" height="34" as="geometry" />
+          <mxGeometry x="637.63" y="34" width="72.37" height="34" as="geometry" />
         </mxCell>
         <mxCell id="rbWVYp2GGXw5zbpGU6X0-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rbWVYp2GGXw5zbpGU6X0-59" target="rbWVYp2GGXw5zbpGU6X0-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
