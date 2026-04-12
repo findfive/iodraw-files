@@ -58,7 +58,8 @@
             <mxPoint x="360" y="740" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="490" />
-              <mxPoint x="340" y="734" />
+              <mxPoint x="340" y="740" />
+              <mxPoint x="290" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,7 +72,7 @@
           <mxGeometry x="189.5" y="445" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-7" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="219.13" y="720" width="70" height="34" as="geometry" />
+          <mxGeometry x="219.76" y="723" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2gXGcDm5YBr-1a0l2rWL-8" value="将关键字按固定格式&#xa;拼接成一条字符串" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="189.5" y="566" width="129.75" height="51" as="geometry" />
