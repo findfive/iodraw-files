@@ -27,6 +27,10 @@
         <mxCell id="aodeR2u3QzAgAVY9V6jF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-153" target="KaNf-R4lzkF0VlSjohUQ-154">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2840" y="5590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2800" y="5121" />
+              <mxPoint x="2800" y="5590" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-153" value="读取是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
