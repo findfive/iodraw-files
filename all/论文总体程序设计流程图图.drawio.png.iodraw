@@ -29,8 +29,9 @@
             <mxPoint x="2930" y="5698" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2840" y="5121" />
-              <mxPoint x="2840" y="5570" />
-              <mxPoint x="2930" y="5570" />
+              <mxPoint x="2840" y="5590" />
+              <mxPoint x="2930" y="5590" />
+              <mxPoint x="2930" y="5588" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -43,7 +44,7 @@
           <mxGeometry x="2923.75" y="5081" width="134.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-154" value="结束程序" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2947.49" y="5551" width="87" height="34" as="geometry" />
+          <mxGeometry x="2947.49" y="5572" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-155" target="KaNf-R4lzkF0VlSjohUQ-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -70,6 +71,9 @@
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-155" value="是否通过冷却&#xa;防抖判定?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2919.87" y="5190" width="142.25" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="aodeR2u3QzAgAVY9V6jF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KaNf-R4lzkF0VlSjohUQ-156" target="KaNf-R4lzkF0VlSjohUQ-154">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KaNf-R4lzkF0VlSjohUQ-156" value="更新本地UI视频画面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2930.74" y="5495" width="120.5" height="39" as="geometry" />
