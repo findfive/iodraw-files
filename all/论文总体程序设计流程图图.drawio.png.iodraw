@@ -24,9 +24,9 @@
             <mxPoint x="10" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaNf-R4lzkF0VlSjohUQ-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-153" target="KaNf-R4lzkF0VlSjohUQ-154" edge="1">
+        <mxCell id="KaNf-R4lzkF0VlSjohUQ-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KaNf-R4lzkF0VlSjohUQ-153" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2930" y="5698" as="targetPoint" />
+            <mxPoint x="2940" y="5580" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2840" y="5121" />
               <mxPoint x="2840" y="5587" />
